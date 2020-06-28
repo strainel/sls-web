@@ -1,0 +1,26 @@
+enable  : true
+title   : Les partenaires
+subtitle: Les gentils sponsors qui aident l'association à produire chaque année un spectacle de qualité
+members:
+  - image : images/partenaires/cmn.png
+    url   : https://www.monuments-nationaux.fr
+  - image : images/partenaires/region-nv-aquitaine.png
+    url   : https://www.nouvelle-aquitaine.fr
+  - image : images/partenaires/departement-vienne.png
+    url   : http://www.lavienne86.fr
+  - image : images/partenaires/departement-deux-sevres.png
+    url   : https://www.deux-sevres.fr
+  - image : images/partenaires/festival-deux-sevres.png
+    url   : https://www.deux-sevres.fr/destination-deux-sevres/sortir/les-festivals-en-deux-sevres
+  - image : images/partenaires/grand-poitiers.png
+    url   : https://www.grandpoitiers.fr
+  - image : images/partenaires/prefet-region.png
+    url   : https://www.culture.gouv.fr/Regions/DRAC-Nouvelle-Aquitaine
+  - image : images/partenaires/sanxay-histoire.png
+    url   : 
+  - image : images/partenaires/poitiers-universite.png
+    url   : https://www.univ-poitiers.fr
+  - image : images/partenaires/orange.png
+    url   : https://www.orange.com/fr/accueil
+  - image : images/partenaires/credit-agricole.png
+    url   : https://www.credit-agricole.fr/ca-tourainepoitou/particulier.html

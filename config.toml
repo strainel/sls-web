@@ -1,0 +1,102 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Soirées lyriques de Sanxay"
+theme = "timer-hugo"
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
+# Navbar Menus
+[[menu.main]]
+name    = "Qui sommes-nous ?"
+url     = "about"
+weight  = 7
+#[[menu.main]]
+#name    = "Service"
+#url     = "service"
+#weight  = 3
+[[menu.main]]
+name    = "Gallerie"
+url     = "gallery"
+weight  = 4
+#[[menu.main]]
+#name    = "Blog"
+#url     = "blog"
+#weight  = 5
+[[menu.main]]
+name    = "Partenaires"
+url     = "partenaires"
+weight  = 5
+[[menu.main]]
+name    = "Contact"
+url     = "contact"
+weight  = 6
+
+# Site Params
+[params]
+home = "Accueil"
+logo = "images/logo-sanxay.png"
+dateFormat = "6 January 2006"
+# Meta data
+description = "Soirées lyriques de Sanxay"
+author = "SLS"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+# contact form action
+contactFormAction = "#" # contact form works with https://formspree.io
+
+# Banner Section
+[params.banner]
+enable  = true
+bgImage = "images/carmen.jpg"
+heading = "Carmen - édition 2021"
+description = "Nous vous donnons rendez-vous en août 2021 avec Carmen de Bizet."
+# button
+btn     = true
+btnText = "En savoir plus"
+btnURL  = "#"
+
+# flip text
+[[params.banner.flipText]]
+title   = "Découvrez la prochaine production"
+[[params.banner.flipText]]
+title   = "Découvrez les artistes"
+[[params.banner.flipText]]
+title   = "Soutenez l'association et les bénévoles"
+
+# Homepage About Section
+[params.about]
+enable  = false
+title   = "ABOUT ME"
+content = "Hello, I’m a UI/UX Designer & Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University.And scrambled it to make a type specimen book. It has survived not only five centuries. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero."
+image   = "images/about/about.jpg"
+
+# Call to Action
+[params.cta]
+enable  = true
+title   = "Une question ?"
+content = "Vous souhaitez acheter une place ? Addhérer au comité de soutien ? Nous faire part de votre expérience ? Nous sommes à votre écoute."
+btnText = "Contactez-nous !"
+btnURL  = "/contact"
+
+# Portfolio Section On Homepage
+[params.portfolio]
+enable  = true
+title   = "Les productions précédentes"
+subtitle= "Les soirées lyriques sont nées en 2000. De nombreuses oeuvres ont résonné dans le théatre gallo-romain de Sanxay. Replongez dans le passé..."
+
+# social icon
+[[params.socialIcon]]
+icon = "ion-social-facebook"
+url = "https://fr-fr.facebook.com/operasanxay"
+
+[[params.socialIcon]]
+icon = "ion-social-twitter"
+url = "https://twitter.com/operasanxay"
+
+[[params.socialIcon]]
+icon = "ion-social-instagram"
+url = "#"
+
+#[[params.socialIcon]]
+#icon = "ion-social-linkedin"
+#url = "#"
