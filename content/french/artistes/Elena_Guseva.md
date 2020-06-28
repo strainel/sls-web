@@ -1,8 +1,7 @@
 ---
 title: "Elena Guseva"
-type: portfolio
+type: artistes
 date: 2018-07-12T16:59:54+06:00
-description : "This is meta description"
 caption: Giacomo Puccini
 image: images/artistes/elena-guseva.png
 category: ["soprano","aida"]

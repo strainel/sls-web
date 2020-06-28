@@ -3,6 +3,11 @@ languageCode = "en-us"
 title = "Soirées lyriques de Sanxay"
 theme = "timer-hugo"
 
+# disable language
+#disableLanguages = []
+DefaultContentLanguage = "fr"
+
+
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
 
 # Navbar Menus
@@ -15,8 +20,8 @@ weight  = 7
 #url     = "service"
 #weight  = 3
 [[menu.main]]
-name    = "Gallerie"
-url     = "gallery"
+name    = "Les spectacles"
+url     = "portfolio"
 weight  = 4
 #[[menu.main]]
 #name    = "Blog"
@@ -100,3 +105,16 @@ url = "#"
 #[[params.socialIcon]]
 #icon = "ion-social-linkedin"
 #url = "#"
+
+################################ English Language ########################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+
+
+################################ France Language ########################
+[Languages.fr]
+languageName = "Fr"
+languageCode = "fr-fr"
+contentDir = "content/french"
