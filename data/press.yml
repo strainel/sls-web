@@ -1,0 +1,62 @@
+enable  : true
+title   : Presse
+subtitle: La presse en parle !
+pressAdvices:
+  - name : Nicolas Grienenberger
+    description : Une grande soirée, de grandes voix, pour des Soirées Lyriques de Sanxay qui démontrent une fois de plus leur place parmi les grandes manifestations lyriques de l'été.
+  - name : Michel Parouty
+    description : Dans une région que l'on peut, sans mépris aucun, qualifier de désert lyrique, aux limites de la Vienne et des Deux-Sèvres, Christophe Blugeon et ses troupes - dont une quantité impressionnante de bénévoles - porte haut l'étendard de l'opéra, et leur courage s'avère payant. Car leur nouvelle production de Turandot s'avère digne d'une grande scène; rien d'étonnant à ce que , le soir de la première, elle ait attiré deux mille spectateurs dans le théâtre gallo-romain.
+  - name : Vincent Deloge
+    description : Il en a fallu de la passion à Christophe Blugeon, à ses équipes et aux nombreux bénévoles qui contribuent à la manifestation, pour faire d'un village poitevin de six cents habitants âmes un rendez-vous incontournable de l'été lyrique hexagonal accueillant chaque année des chanteurs de dimension internationale.
+  - name : Catherine Scholler
+    designation : Opéra Magazine, 10/2012
+    description : Après des Aïda (2009), Norma (2010) et Carmen (2011) fort réussies, les « Soirées Lyriques » de Sanxay s’affirment de plus en plus comme une valeur sûre des festivals de l’été !
+  - name : Emmanuel Andrieu
+    designation : Classiqueinfo, 08/2012
+    description : (...) Honneur soit rendu à son infatigable directeur-fondateur, Christophe Blugeon qui, cette année encore, a su réunir une distribution digne des plus grandes scènes internationales.
+  - name : Thierry Guyenne
+    designation : Opéra Magazine, 10/2009
+    description : Pour leur dixième édition, les Soirées Lyriques de Sanxay n’ont pas eu peur d’afficher Aïda. On est heureux de pouvoir l’écrire, la réussite a été au rendez – vous , tant pour la fréquentation sur les quatre soirées que pour le résultat artistique.
+  - name : Thierry Guyenne
+    designation : Opéra Magazine, 10/2009
+    description : (...) Antoine Selva, exploitant au mieux les contraintes comme la beauté du Théâtre antique, signe une réalisation soignée , puissante et intelligente (...) La beauté des costumes, des décors et des lumières est pour beaucoup dans la réussite de l’ensemble, sans oublier des chorégraphies fort inventives et athlétiques, impeccablement exécutées (...)
+  - name : Thierry Guyenne
+    designation : Opéra Magazine, 10/2009
+    description : (...) Comme en 2007, dans Il Trovatore , on admire l’excellence du travail accompli par Didier Lucchesi. À la tête d’un orchestre et d’un chœur sonnant magnifiquement dans cette acoustique naturelle, il montre une admirable précision, avec un sens du grandiose évitant toute grandiloquence bruyante (...)
+  - name : Xavier Dutheil
+    designation : La Nouvelle République, 10/08/2008
+    description : (...) À Sanxay, saison après saison, les mêmes bénévoles clouent les planches des décors, organisent la billetterie, hébergent les artistes. (...) Les mêmes chanteurs, malgré des programmes internationaux chargés, demandent à revenir "parce qu'à Sanxay, c'est spécial".
+  - name : Xavier Dutheil
+    designation : La Nouvelle République, 04/08/2008
+    description : (...) Le public est debout. Heureux. Quand le ciel décide de déverser à nouveau ses cataractes ! Sanxay, en deux soirs difficiles, a sans doute gagné ses vrais galons de festival.
+  - name : Thierry Guyenne
+    designation : Opera Magazine, 08/2007
+    description : (...) La nécessité de toucher un public le plus large possible oblige, bien sûr, à se cantonner aux titres du répertoire, d'où le choix d'Il Trovatore cette année. Une quasi-folie quand on sait la difficulté des plus grandes salles à trouver des chanteurs adéquats ! Force est pourtant de constater que Christophe Blugeon, directeur artistique, a réussi à force de ténacité, à réunir une distribution plus que correcte, réservant même de belles surprises ! (...)
+  - name : Jacques Doucelin
+    designation : Le Figaro, 13/08/2003
+    description : (...) Les rôles d'Abigaïlle, de Nabucco et de Zaccaria appartiennent aux plus vertigineux du répertoire. Michèle Lagrange s'aventure pour la première fois dans celui d'Abigaïlle avec la fougue intrépide qu'on lui connait. Si les grands écarts vocaux ne l'effraient pas, elle sait en plus utiliser l'acoustique pour les confidences plus intimes où le grain de sa voix fait merveille (...) Philippe Duminy mobilise toutes ses forces dans le rôle titre en une superbe progression où il révèle ses qualités de style. Pas moins admirable la prestation de la basse Fernand Bernadi qui campe un Zaccaria à la ligne de chant impécable et aux aigus aisés (...)
+  - name : Le Nouvel Economiste, 08/2003
+    description : Christophe Blugeon invente le troisième festival lyrique de France...au milieu des champs !
+  - name : Hélène Echasseriau
+    designation : La Nouvelle République, 16/08/2002
+    description : (...) Comment ne pas être séduit par ce cadre sensationnel, chargé d'histoire, où les hommes se rassemblent depuis des siècles ? Comment ne pas être charmé par la magie de ces voix pures qui s'élèvent dans le ciel qui s'étoile à mesure que le voile obscur enveloppe la nature ? Comment enfin ne pas succomber au raffinement de l'ensemble du spectacle, dans un environnement aussi rustique ? (...)
+  - name : Colette Meunier-Sicard
+    designation : Centre-Presse, 10/08/2002
+    description : Sublime est le mot qui convient parfaitement pour décrire ce que nous avons pu ressentir. Sublime en tout. Des chanteurs excellents, des décors et des costumes de très bon goût, un cadre unique, un orchestre prometteur (...)
+  - name : Laurence Chegaray
+    designation : Centre-Presse, 10/08/2002
+    description : (...) Qu'on ait choisi les chaises d'orchestre, les gradins ou de s'emmitoufler dans un duvet sur le gazon entre les étoiles et les grillons, les frissons ressentis n'étaient pas dus à l'air frisquet mais bel et bien à ce qui se produisait sur la scène (...)
+  - name : Hélène Echasseriau
+    designation : La Nouvelle République, 10/08/2002
+    description : (...) Une voix qui jaillit dans la nuit, au milieu de pierres séculaires, devant 2000 spectateurs conquis... La première de La Traviata, jeudi soir à Sanxay, a tenu toutes ses promesses et c'est debout que le public a ovationné les artistes et les musiciens à la fin de l'opéra. Les fidèles sont formels. Exceptionnel ! (...)
+  - name : Hélène Echasseriau
+    designation : La Nouvelle République, 06/08/2001
+    description : (...) S'il est déjà extraordinaire d'entendre des chanteurs lyriques habitués aux plus grands opéras du monde à deux pas de chez soi, la magie opère plus encore quand on sait que l'opéra est donné en plein air, dans les vestiges d'un théâtre gallo-romain (...)
+  - name : Jacques Rivereau
+    designation : Centre-Presse, 30/08/2000
+    description : (...) Ceux qui appréhendent un spectacle de patronage seront rassurés. Il faudrait aux habitués de Bastille ou de Garnier une bonne dose d'insensibilité émotionnelle pour oser une critique sérieuse. Quel enseignement retenir de ces soirées? Essentiellement l'intérêt, l'enthousiasme et le plaisir d'un public aussi nombreux que varié, pour le spectacle vivant et populaire que constitue le théâtre lyrique.
+  - name : Stéphane Bouteloup
+    designation : Le Monde de la Musique, 08/2000
+    description : (...) Au moment où des festivals établis renoncent à monter des opéras, les Soirées Lyriques de Sanxay démontrent , dès leur première édition, qu'il est possible de présenter fort honorablement le Rigoletto de Verdi en milieu rural. (...)
+
+

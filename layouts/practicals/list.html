@@ -1,0 +1,61 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+{{ if .Site.Data.practicals.enable }}
+{{ with .Site.Data.practicals }}
+{{ "<!-- Contact Section Start -->" | safeHTML }}
+<section id="contact-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+            {{ with .title }}<h2 class="subtitle text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay=".3s">{{ . }}</h2>{{ end }}
+            {{ with .subtitle }}<p class="subtitle-des text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay=".5s">{{ . }}</p>{{ end }}
+            </div>
+            <div class="col-md-6 mb-5 mb-md-0">
+                <div class="block">
+                    {{ with .transportation }}<h3 class="subtitle wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">{{ . }}</h2>{{ end }}
+                    {{ with .transportationSubtitle }}<p class="subtitle-des wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".5s">{{ . }}</p>{{ end }}
+                    <div class="contact-form">
+
+                     <!-- single transportation table -->
+                      {{ range .transportationList }}
+                          <div class="price-title">
+                            <h5>{{ .name }}</h5>
+                            <strong class="value">{{ .price }}</strong>
+                            <p>{{ .content | markdownify }}</p>
+                          </div>
+                          <ul>
+                            {{ range .services }}
+                            <li>{{ . | markdownify }}</li>
+                            {{ end }}
+                          </ul>
+                      {{ end }}
+                      <!-- end single transportation table -->
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="map-area">
+                    {{ with .Site.Data.practicals.mapTitle }}<h3 class="subtitle  wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">{{ . }}</h2>{{ end }}
+                    {{ with .Site.Data.practicals.mapSubtitle }}<p class="subtitle-des wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".5s">{{ . }}</p>{{ end }}
+                    <div class="map">
+                        <iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-0.029236078262329105%2C46.492306297547856%2C-0.015181303024291994%2C46.49733612730822&amp;layer=mapnik&amp;marker=46.49482496355339%2C-0.022208690643310547"
+                            width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ "<!-- Contact Section End -->" | safeHTML }}
+{{ end }}
+{{ end }}
+
+
+{{ partial "pricing.html" . }}
+
+{{ partial "cta.html" . }}
+
+{{ end }}

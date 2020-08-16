@@ -1,0 +1,22 @@
+{{ if .Site.Data.client.enable }}
+{{ "<!-- Client Section Start -->" | safeHTML }}
+<section id="spectators">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                {{ with .Site.Data.client.title }}<h2 class="subtitle text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay=".3s">{{ . }}</h2>{{ end }}
+                {{ with .Site.Data.client.subtitle }}<p class="subtitle-des text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay=".5s">{{ . }}</p>{{ end }}
+            </div>
+            {{ range .Site.Data.client.clientsAdvices }}
+            <div class="col-md-3 col-sm-6">
+                <div class="team-member wow fadeInLeft" data-wow-duration="500ms" data-wow-delay="200ms">
+                        {{ with .name }}<h3 class="team_name">{{ . }}</h3>{{ end }}
+                        {{ with .description }}<p class="team_text">« {{ . }} »</p>{{ end }}
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ "<!-- Client Section End -->" | safeHTML }}
+{{ end }}

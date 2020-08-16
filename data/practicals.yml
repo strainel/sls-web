@@ -1,0 +1,14 @@
+enable  : true
+title: Venir à Sanxay
+transportation    : Les moyens de transport
+transportationSubtitle : Plusieurs solutions pour venir jusque Sanxay
+transportationList:
+  - name : En voiture
+    content : par autoroute A10 - sortie XX 
+  - name : Par covoiturage
+    content : blablacar ou carpooling
+  - name : Par train
+    content : gare de Poitiers (à 30 minutes de Sanxay)
+mapTitle    : La carte
+mapSubtitle : >
+  Si vous êtes de passage dans la Vienne, vous pouvez venir nous rencontrer dans le local de l'association à SANXAY

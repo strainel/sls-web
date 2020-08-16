@@ -1,14 +1,33 @@
 enable  : true
 title   : Témoignages
 subtitle: Les spectateurs ont de la voix !
-clientsLogo:
-  - image : images/clients/logo-1.jpg
-  - image : images/clients/logo-2.jpg
-  - image : images/clients/logo-3.jpg
-  - image : images/clients/logo-4.jpg
-  - image : images/clients/logo-5.jpg
-  - image : images/clients/logo-1.jpg
-  - image : images/clients/logo-2.jpg
-  - image : images/clients/logo-3.jpg
-  - image : images/clients/logo-4.jpg
-  - image : images/clients/logo-5.jpg
+clientsAdvices:
+  - name : Maryline – La Baule 44
+    description : Ces soirées sont des moments intenses et magiques...
+  - name : Agneta – Londres
+    description : Nous venons de Londres tous les ans avec des amis pour admirer ce magnifique spectacle dans un site extraordinaire.
+  - name : Robert – Arcueil 94
+    description : Spectacle merveilleux dans une atmosphère nocturne magique.
+  - name : Pascale – Paris 75
+    description : Sanxay, une opportunité de décentraliser et démocratiser l’opéra dans un site unique.
+  - name : Florence – Niort 79
+    description : C’est la culture à la portée de tous. On y apporte sa tarte aux prunes et on écoute, dans la nuit d’été pleine de parfums, des sons délicieux. C’est champêtre, simple et pourtant magique.
+  - name : Sylvette - Sainte-Néomaye 79
+    description : J’ai découvert, grâce à Sanxay, l’opéra, la splendeur des voix, de la musique, des décors. Je suis fidèle à ce parcours sans faute depuis le commencement.
+  - name : Françoise – Lusignan 86
+    description : Je vous suis profondément reconnaissante d’amener l’opéra à notre porte et d’éveiller notre région peu favorisée culturellement à l’art lyrique. Merci encore...
+  - name : Michel – Scorbé-Clairvaux 86
+    description : L’opéra à Sanxay est le modèle de ce que peut être une animation de qualité en milieu rural. Pour les habitants de la Vienne, c’est une chance et un exemple.
+  - name : Jacques – Paris 75
+    description : À la valeur culturelle certaine, à la qualité artistique évidente et reconnue, il convient d’ajouter la dimension humaine d’une entreprise qui mobilise largement un bénévolat local dont la disponibilité et l’efficacité sont frappantes. Alors comment ne pas soutenir tous ceux qui oeuvrent pour la poursuite d’une réalisation en tous points exemplaire.
+  - name : Geneviève – Béruges 86
+    description : L’acoustique dans les arènes de Sanxay est tellement extraordinaire qu’un opéra écouté en salle paraît quelconque lorsqu’on a eu le plaisir de trouver tellement mieux.
+  - name : Caroline – Adriers 86
+    description : C’est un peu par hasard que j’ai assisté à mon premier opéra à Sanxay . Depuis, je ne rate pas un festival. Sanxay m’a permis de découvrir l’opéra, et l’aimer et cela a été une porte ouverte vers la musique classique…Une graine a poussé dans le jardin de la culture. Je compte bien en faire profiter mes enfants.
+  - name : Viviane – Chaillevette 17
+    description : La beauté et l’intérêt historique doublés du cadre exceptionnel que les arènes offrent aux Soirées Lyriques sont à la fois un enchantement et une chance pour la région Poitou-Charentes.
+  - name : Edith – Saint-Bris-le-Vineux 89
+    description : Ces soirées lyriques font partie maintenant du patrimoine française. Il faut absolument qu’elles vivent.
+  - name : Annick et Gilles – Paris 75
+    description : Ce rendez-vous annuel constitue un passage obligé de nos vacances d’été.
+

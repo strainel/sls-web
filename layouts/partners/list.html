@@ -6,9 +6,9 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                {{ with .Site.Data.partenaires.subtitle }}<p class="subtitle-des text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay=".5s">{{ . }}</p>{{ end }}
+                {{ with .Site.Data.partners.subtitle }}<p class="subtitle-des text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay=".5s">{{ . }}</p>{{ end }}
                 <div id="media">
-                    {{ range $index, $element:= .Site.Data.partenaires.members }}
+                    {{ range $index, $element:= .Site.Data.partners.members }}
                     <a href="{{ .url | absURL }}"><img class="img-fluid mx-2" src="{{ .image | absURL }}" alt="client-logo"></a>
                     {{ end }}
                 </div>

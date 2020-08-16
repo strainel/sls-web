@@ -12,29 +12,25 @@ DefaultContentLanguage = "fr"
 
 # Navbar Menus
 [[menu.main]]
-name    = "Qui sommes-nous ?"
-url     = "about"
-weight  = 7
-#[[menu.main]]
-#name    = "Service"
-#url     = "service"
-#weight  = 3
-[[menu.main]]
-name    = "Les spectacles"
+name    = "Spectacles"
 url     = "portfolio"
-weight  = 4
-#[[menu.main]]
-#name    = "Blog"
-#url     = "blog"
-#weight  = 5
+weight  = 1
 [[menu.main]]
 name    = "Partenaires"
-url     = "partenaires"
-weight  = 5
+url     = "partners"
+weight  = 2
 [[menu.main]]
-name    = "Contact"
-url     = "contact"
-weight  = 6
+name    = "Infos pratiques"
+url     = "practicals"
+weight  = 3
+[[menu.main]]
+name    = "Le festival"
+url     = "about"
+weight  = 4
+#[[menu.main]]
+#name    = "Contact"
+#url     = "contact"
+#weight  = 6
 
 # Site Params
 [params]
@@ -79,7 +75,7 @@ image   = "images/about/about.jpg"
 [params.cta]
 enable  = true
 title   = "Une question ?"
-content = "Vous souhaitez acheter une place ? Addhérer au comité de soutien ? Nous faire part de votre expérience ? Nous sommes à votre écoute."
+content = "Vous souhaitez acheter une place ? Adhérer au comité de soutien ? Nous faire part de votre expérience ? Nous sommes à votre écoute."
 btnText = "Contactez-nous !"
 btnURL  = "/contact"
 
@@ -100,7 +96,11 @@ url = "https://twitter.com/operasanxay"
 
 [[params.socialIcon]]
 icon = "ion-social-instagram"
-url = "#"
+url = "https://instagram.com/soireeslyriquessanxay"
+
+[[params.socialIcon]]
+icon = "ion-social-youtube"
+url = "https://www.youtube.com/channel/UCldxuw4RRkmpXyUkw81F_Gw?view_as=subscriber"
 
 #[[params.socialIcon]]
 #icon = "ion-social-linkedin"
