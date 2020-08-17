@@ -3,7 +3,7 @@ title: "Elena Guseva"
 type: artistes
 date: 2018-07-12T16:59:54+06:00
 caption: Giacomo Puccini
-image: images/artistes/elena-guseva.png
+image: images/artists/elena_guseva.png
 category: ["soprano","aida"]
 liveLink: https://www.themefisher.com
 submitDate: 

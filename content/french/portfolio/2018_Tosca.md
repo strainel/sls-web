@@ -29,10 +29,10 @@ Opéra en trois actes de Giacomo Puccini
 
 - Floria Tosca : Anna Pirozzi	
 - Mario Cavaradossi : Azer Zada	
-- Scarpia : Carlos Almaguer	
-- Angelotti : Emanuele Cordaro	
+- Scarpia : [Carlos Almaguer](/artists/carlos_almaguer)
+- Angelotti : Emanuele Cordaro
 - Le Sacristain : Armen Karapetyan	
-- Spoletta : Alfred Bironien	
+- Spoletta : [Alfred Bironien](/artists/alfred_bironien/)	
 - Sciarrone : Vincent Pavesi	
 - Un geôlier : Jesus De Burgos	
 - Un berger : Gaspard Lys	

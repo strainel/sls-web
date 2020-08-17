@@ -37,12 +37,12 @@ Crée le 11 mars 1851 au théâtre de la Fenice de Venise.
 - Maddalena : Ketevan Kemoklidze
 - Giovanna : Aline Martin
 - Comtesse de Ceprano/un page : Blandine Folio Peres
-- Rigoletto : Carlos Almaguer
+- Rigoletto : [Carlos Almaguer](/artists/carlos_almaguer)
 - Duc de Mantoue : Stefan Pop
-- Sparafucile : Felipe Bou
+- Sparafucile : [Felipe Bou](/artists/felipe_bou/)
 - Monterone : Nika Guliashvili
 - Marullo : Armen Karapetyan
-- Borsa : Alfred Bironien
+- Borsa : [Alfred Bironien](/artists/alfred_bironien/)
 - Comte de Ceprano : Fabien Leriche
 - Huissier de la cour : Yoann Dubruque
 

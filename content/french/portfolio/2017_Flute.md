@@ -35,15 +35,15 @@ Création le 30 septembre 1791 au Théâtre Schikaneder de Vienne
 
 - Tamino : Paolo Fanale	
 - Pamina : Tatiana Lisnic	
-- Papageno : Giorgio Caoduro	
+- Papageno : [Giorgio Caoduro](/artists/giorgio_caoduro/)	
 - La Reine de la Nuit : Christina Poulitsi	
 - Sarastro : Luiz Ottavio Faria	
 - 1ère Dame : Andreea Soare	
 - 2ème Dame : Aline Martin	
 - 3ème Dame : Svetlana Lifar	
-- Monostatos : Rodolphe Briand	
+- Monostatos : [Rodolphe Briand](/artists/rodolphe_briand/)
 - L'Orateur : Balint Szabo	
-- Papagena : Mélanie Boisvert	
+- Papagena : [Mélanie Boisvert](/artists/melanie_boisvert)
 - Premier prêtre : Balint Szabo	
 - Deuxième prêtre : Yu Shao	
 - Premier homme en armure : Yu Shao	
