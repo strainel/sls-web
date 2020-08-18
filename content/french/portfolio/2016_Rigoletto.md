@@ -22,7 +22,7 @@ Livret de Francesco Maria Piave
 
 Crée le 11 mars 1851 au théâtre de la Fenice de Venise.
 
-- Direction musicale : Eric Hull
+- Direction musicale : [Eric Hull](/artists/eric_hull)
 - Mise en scène : Agostino Taboga
 - Création lumières : Andrea Tocchio / Virginio Levrio
 - Scénographie : Andrea Tocchio
@@ -36,11 +36,11 @@ Crée le 11 mars 1851 au théâtre de la Fenice de Venise.
 - Gilda : Olga Pudova
 - Maddalena : Ketevan Kemoklidze
 - Giovanna : Aline Martin
-- Comtesse de Ceprano/un page : Blandine Folio Peres
+- Comtesse de Ceprano/un page : [Blandine Folio Peres](/artists/blandine_folio_peres/)
 - Rigoletto : [Carlos Almaguer](/artists/carlos_almaguer)
 - Duc de Mantoue : Stefan Pop
 - Sparafucile : [Felipe Bou](/artists/felipe_bou/)
-- Monterone : Nika Guliashvili
+- Monterone : [Nika Guliashvili](/artists/nika_guliashvili)
 - Marullo : Armen Karapetyan
 - Borsa : [Alfred Bironien](/artists/alfred_bironien/)
 - Comte de Ceprano : Fabien Leriche

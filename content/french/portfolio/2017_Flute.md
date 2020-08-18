@@ -23,7 +23,7 @@ Livret de Emanuel Schikaneder
 Création le 30 septembre 1791 au Théâtre Schikaneder de Vienne
 
 
-- Direction musicale : Eric Hull
+- Direction musicale : [Eric Hull](/artists/eric_hull)
 - Mise en scène : Stefano Vizioli
 - Création lumières : Nevio Cavina
 - Scénographie : Keiko Shiraishi
@@ -37,7 +37,7 @@ Création le 30 septembre 1791 au Théâtre Schikaneder de Vienne
 - Pamina : Tatiana Lisnic
 - Papageno : [Giorgio Caoduro](/artists/giorgio_caoduro/)
 - La Reine de la Nuit : Christina Poulitsi
-- Sarastro : Luiz Ottavio Faria
+- Sarastro : [Luiz Ottavio Faria](/artists/luiz_ottavio_faria/)
 - 1ère Dame : Andreea Soare
 - 2ème Dame : Aline Martin
 - 3ème Dame : Svetlana Lifar

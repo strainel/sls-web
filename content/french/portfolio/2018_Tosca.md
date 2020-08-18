@@ -17,7 +17,7 @@ submitDate: 9, 11 et 13 août 2018 à 21H30
 
 Opéra en trois actes de Giacomo Puccini
 
-- Direction musicale : Eric Hull
+- Direction musicale : [Eric Hull](/artists/eric_hull)
 - Mise en scène : Stefano Vizioli
 - Création lumières : Nevio Cavina
 - Scénographie : Mauro Tinti
@@ -30,7 +30,7 @@ Opéra en trois actes de Giacomo Puccini
 - Floria Tosca : Anna Pirozzi	
 - Mario Cavaradossi : Azer Zada	
 - Scarpia : [Carlos Almaguer](/artists/carlos_almaguer)
-- Angelotti : Emanuele Cordaro
+- Angelotti : [Emanuele Cordaro](/artists/emanuele_cordaro/)
 - Le Sacristain : Armen Karapetyan	
 - Spoletta : [Alfred Bironien](/artists/alfred_bironien/)	
 - Sciarrone : Vincent Pavesi	
