@@ -5,7 +5,7 @@ date: 2015-07-12T16:59:54+06:00
 caption: Giacomo Puccini
 image: images/portfolio/2015_turandot_01.jpeg
 category: ["opera","puccini"]
-liveLink: https://www.themefisher.com
+liveLink: 
 submitDate: 08, 10 et 12 août 2015 à 21H30
 ---
 ### L'oeuvre la plus grandiose de Puccini !
@@ -22,7 +22,7 @@ Livret de Giuseppe Adami et Renato Simoni
 
 Création à la Scala de Milan le 25 avril 1926
 
-- Direction musicale : Eric Hull
+- Direction musicale : [Eric Hull](/artists/eric_hull)
 - Mise en scène : Agostino Taboga
 - Scénographie / Création lumières : Andrea Tocchio / Maria Rossi Franchi	
 - Création costumes : Shizuko Omachi
@@ -32,13 +32,13 @@ Création à la Scala de Milan le 25 avril 1926
 ### Distribution
 
 - Turandot : Anna Shafajinskaia
-- Liù : Tatiana Lisnic
-- Calaf : Rudy Park
+- Liù : [Tatiana Lisnic](/artists/tatiana_lisnic/)
+- Calaf : [Rudy Park](/artists/rudy_park/)
 - Timur : Wojtek Smilek
 - Ping : Armen Karapetyan
 - Pang : Xin Wang
-- Pong : Carlos Natale
-- L'Empereur Altoum : Ronan Nédélec
+- Pong : [Carlos Natale](/artists/carlos_natale/)
+- L'Empereur Altoum : [Ronan Nédélec](/artists/ronan_nedelec/)
 - Choeur enfants : Académie de Chant Choeur d'enfants Soirées Lyriques de Sanxay
 - Un Mandarin : Nika Guliashvili
 

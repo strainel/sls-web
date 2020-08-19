@@ -20,7 +20,7 @@ Livret de Temistocle Solera d’après le drame Nabuchodonosor d’Auguste Anice
 
 Création le 9 mars 1842 à la Scala de Milan
 
-- Direction musicale : Eric Hull
+- Direction musicale : [Eric Hull](/artists/eric_hull)
 - Mise en scène : Agostino Taboga
 - Scénographie / Création lumières : Andrea Tocchio / Maria Rossi Franchi	
 - Création costumes : Shizuko Omachi / Stefano Nicolao	
@@ -29,14 +29,14 @@ Création le 9 mars 1842 à la Scala de Milan
 
 ### Distribution
 
-- Abigaille : Anna Pirozzi	
-- Fenena : Elena Cassian	
-- Anna : Sarah Vaysset	
-- Nabucco : Alberto Gazale	
-- Zaccaria : Ievgen Orlov	
-- Ismaël : Luca Lombardo	
-- Le grand prêtre de Babylone : Nika Guliashvili	
-- Abdallo : Xin Wang	
+- Abigaille : [Anna Pirozzi](/artists/anna_pirozzi/)
+- Fenena : [Elena Cassian](/artists/elena_cassian/)
+- Anna : Sarah Vaysset
+- Nabucco : Alberto Gazale
+- Zaccaria : [Ievgen Orlov](/artists/ievgen_orlov/)
+- Ismaël : [Luca Lombardo](/artists/luca_lombaerdo/)
+- Le grand prêtre de Babylone : [Nika Guliashvili](/artists/nika_guliashvili/)
+- Abdallo : Xin Wang
 
 
 Orchestre et choeur des Soirées Lyriques de Sanxay

@@ -39,7 +39,7 @@ Création le 30 septembre 1791 au Théâtre Schikaneder de Vienne
 - La Reine de la Nuit : Christina Poulitsi
 - Sarastro : [Luiz Ottavio Faria](/artists/luiz_ottavio_faria/)
 - 1ère Dame : Andreea Soare
-- 2ème Dame : Aline Martin
+- 2ème Dame : [Aline Martin](/artists/aline_martin/)
 - 3ème Dame : [Svetlana Lifar](/artists/svetlana_lifar)
 - Monostatos : [Rodolphe Briand](/artists/rodolphe_briand/)
 - L'Orateur : Balint Szabo
