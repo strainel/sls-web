@@ -35,15 +35,15 @@ Crée le 11 mars 1851 au théâtre de la Fenice de Venise.
 
 - Gilda : Olga Pudova
 - Maddalena : Ketevan Kemoklidze
-- Giovanna : Aline Martin
+- Giovanna : [Aline Martin](/artists/aline_martin/)
 - Comtesse de Ceprano/un page : [Blandine Folio Peres](/artists/blandine_folio_peres/)
 - Rigoletto : [Carlos Almaguer](/artists/carlos_almaguer)
-- Duc de Mantoue : Stefan Pop
+- Duc de Mantoue : [Stefan Pop](/artists/stefan_pop/)
 - Sparafucile : [Felipe Bou](/artists/felipe_bou/)
 - Monterone : [Nika Guliashvili](/artists/nika_guliashvili)
 - Marullo : Armen Karapetyan
 - Borsa : [Alfred Bironien](/artists/alfred_bironien/)
-- Comte de Ceprano : Fabien Leriche
+- Comte de Ceprano : [Fabien Leriche](/artists/fabien_leriche/)
 - Huissier de la cour : Yoann Dubruque
 
 

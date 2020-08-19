@@ -2,7 +2,6 @@
 title: "Carlos Almaguer"
 type: artistes
 date: 2018-07-12T16:59:54+06:00
-caption: Giacomo Puccini
 image: images/artists/carlos_almaguer.png
 category: ["soprano","aida"]
 liveLink: https://www.themefisher.com
@@ -22,5 +21,5 @@ Parmi ses productions récentes on peut citer: Rigoletto à l’Opéra National 
 Prochain engagement : Tosca (Scarpia) à l’opéra de Bologne.
 
 À Sanxay :
-- [Rigoletto, dans Rigoletto en 2016](/portfolio/2016_rigoletto/)
-- [Scarpia, dans Tosca en 2018](/portfolio/2018_tosca/)
+- Rigoletto, dans [Rigoletto en 2016](/portfolio/2016_rigoletto/)
+- Scarpia, dans [Tosca en 2018](/portfolio/2018_tosca/)

@@ -34,13 +34,13 @@ Création le 30 septembre 1791 au Théâtre Schikaneder de Vienne
 ### Distribution
 
 - Tamino : [Paolo Fanale](/artists/paolo_fanale/)
-- Pamina : Tatiana Lisnic
+- Pamina : [Tatiana Lisnic](/artists/tatiana_lisnic/)
 - Papageno : [Giorgio Caoduro](/artists/giorgio_caoduro/)
 - La Reine de la Nuit : Christina Poulitsi
 - Sarastro : [Luiz Ottavio Faria](/artists/luiz_ottavio_faria/)
 - 1ère Dame : Andreea Soare
 - 2ème Dame : Aline Martin
-- 3ème Dame : Svetlana Lifar
+- 3ème Dame : [Svetlana Lifar](/artists/svetlana_lifar)
 - Monostatos : [Rodolphe Briand](/artists/rodolphe_briand/)
 - L'Orateur : Balint Szabo
 - Papagena : [Mélanie Boisvert](/artists/melanie_boisvert)
@@ -48,7 +48,7 @@ Création le 30 septembre 1791 au Théâtre Schikaneder de Vienne
 - Deuxième prêtre : Yu Shao
 - Premier homme en armure : Yu Shao
 - Deuxième homme en armure : Balint Szabo
-- 3 Garçons : Solistes Knabenchores der Chorakademie Dortmund
+- 3 Garçons : [Solistes Knabenchores der Chorakademie Dortmund](/artists/maitrise_chorakademie/)
 - Danseurs : AMRITA Performing arts
 
 
