@@ -1,7 +1,7 @@
 ---
 title: "2010 : Norma"
 type: portfolio
-date: 2014-07-12T16:59:54+06:00
+date: 2010-08-01T16:59:54+06:00
 caption: Vincenzo Bellini
 image: images/portfolio/2010_norma_01.png
 category: ["opera","bellini"]
