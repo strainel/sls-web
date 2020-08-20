@@ -14,29 +14,29 @@ Nabucco, roi de Babylone, a triomphé des Hébreux. Zaccaria, leur grand prêtre
 
 Grâce à son "tube", le fameux "Va pensiero", chœur des Hébreux réduits en esclavage, Nabucco est devenu un titre d’opéra parmi les plus populaires et les plus joués au monde. Mais Nabucco ne se réduit pas à ce chœur, c’est aussi une œuvre fondatrice du style de Verdi – une œuvre qui est apparue de surcroit aux Italiens comme une image symbolique de leur condition de peuple occupé par les Autrichiens. L’ardente humanité qui s’exhale de sa musique ne saura laisser aucun cœur indifférent...
 
-### Equipe
+### Equipe artistique
 
 Livret de Temistocle Solera d’après le drame Nabuchodonosor d’Auguste Anicet-Bourgeois
 
 Création le 9 mars 1842 à la Scala de Milan
 
 - Direction musicale : [Eric Hull](/artists/eric_hull)
-- Mise en scène : Agostino Taboga
+- Mise en scène : [Agostino Taboga](/artists/agostino_taboga/)
 - Scénographie / Création lumières : Andrea Tocchio / Maria Rossi Franchi	
 - Création costumes : Shizuko Omachi / Stefano Nicolao	
-- Chef de choeur : Stefano Visconti
+- Chef de choeur : [Stefano Visconti](/artists/stefano_visconti/)
 - Chef de chant : Céline Frétard
 
 ### Distribution
 
 - Abigaille : [Anna Pirozzi](/artists/anna_pirozzi/)
 - Fenena : [Elena Cassian](/artists/elena_cassian/)
-- Anna : Sarah Vaysset
-- Nabucco : Alberto Gazale
+- Anna : [Sarah Vaysset](/artists/sarah_vaysset/)
+- Nabucco : [Alberto Gazale](/artists/alberto_gazale/)
 - Zaccaria : [Ievgen Orlov](/artists/ievgen_orlov/)
 - Ismaël : [Luca Lombardo](/artists/luca_lombaerdo/)
 - Le grand prêtre de Babylone : [Nika Guliashvili](/artists/nika_guliashvili/)
-- Abdallo : Xin Wang
+- Abdallo : [Xin Wang](/artists/xin_wang/)
 
 
 Orchestre et choeur des Soirées Lyriques de Sanxay

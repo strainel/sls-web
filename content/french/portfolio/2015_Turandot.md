@@ -14,7 +14,7 @@ Bouffon maléfique le jour, père attendri la nuit, Rigoletto protège maladivem
 
 Reprenant l'argument de la pièce de Victor Hugo Le Roi s'amuse, Verdi signe ici un chef d'oeuvre bouleversant dont les airs brillants notamment l'incontournable "La donna è mobile" et les exceptionnels ensembles dramatiques (quatuor et trio du dernier acte) ont marqué à jamais l'histoire de l'Opéra.
 
-### Equipe
+### Equipe artistique
 
 Opéra en 3 actes de Giacomo Puccini
 
@@ -23,20 +23,20 @@ Livret de Giuseppe Adami et Renato Simoni
 Création à la Scala de Milan le 25 avril 1926
 
 - Direction musicale : [Eric Hull](/artists/eric_hull)
-- Mise en scène : Agostino Taboga
+- Mise en scène : [Agostino Taboga](/artists/agostino_taboga/)
 - Scénographie / Création lumières : Andrea Tocchio / Maria Rossi Franchi	
 - Création costumes : Shizuko Omachi
-- Chef de choeur : Stefano Visconti
+- Chef de choeur : [Stefano Visconti](/artists/stefano_visconti/)
 - Chef de chant : Céline Frétard
 
 ### Distribution
 
-- Turandot : Anna Shafajinskaia
+- Turandot : [Anna Shafajinskaia](/artists/anna_shafajinskaia/)
 - Liù : [Tatiana Lisnic](/artists/tatiana_lisnic/)
 - Calaf : [Rudy Park](/artists/rudy_park/)
-- Timur : Wojtek Smilek
-- Ping : Armen Karapetyan
-- Pang : Xin Wang
+- Timur : [Wojtek Smilek](/artists/wojtek_smilek/)
+- Ping : [Armen Karapetyan](/artists/armen_karapetyan/)
+- Pang : [Xin Wang](/artists/xin_wang/)
 - Pong : [Carlos Natale](/artists/carlos_natale/)
 - L'Empereur Altoum : [Ronan Nédélec](/artists/ronan_nedelec/)
 - Choeur enfants : Académie de Chant Choeur d'enfants Soirées Lyriques de Sanxay

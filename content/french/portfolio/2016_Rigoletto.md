@@ -14,7 +14,7 @@ Bouffon maléfique le jour, père attendri la nuit, Rigoletto protège maladivem
 
 Reprenant l'argument de la pièce de Victor Hugo Le Roi s'amuse, Verdi signe ici un chef d'oeuvre bouleversant dont les airs brillants notamment l'incontournable "La donna è mobile" et les exceptionnels ensembles dramatiques (quatuor et trio du dernier acte) ont marqué à jamais l'histoire de l'Opéra.
 
-### Equipe
+### Equipe artistique
 
 Opéra en trois actes de Giuseppe Verdi
 
@@ -23,25 +23,25 @@ Livret de Francesco Maria Piave
 Crée le 11 mars 1851 au théâtre de la Fenice de Venise.
 
 - Direction musicale : [Eric Hull](/artists/eric_hull)
-- Mise en scène : Agostino Taboga
+- Mise en scène : [Agostino Taboga](/artists/agostino_taboga/)
 - Création lumières : Andrea Tocchio / Virginio Levrio
 - Scénographie : Andrea Tocchio
 - Création vidéo : Virginio Levrio
 - Création costumes : Shizuko Omachi / Stefano Nicolao
-- Chef de choeur : Stefano Visconti
+- Chef de choeur : [Stefano Visconti](/artists/stefano_visconti/)
 - Chef de chant : Céline Frétard
 
 ### Distribution
 
-- Gilda : Olga Pudova
-- Maddalena : Ketevan Kemoklidze
+- Gilda : [Olga Pudova](/artists/olga_pudova/)
+- Maddalena : [Ketevan Kemoklidze](/artists/ketevan_kemoklidze/)
 - Giovanna : [Aline Martin](/artists/aline_martin/)
 - Comtesse de Ceprano/un page : [Blandine Folio Peres](/artists/blandine_folio_peres/)
 - Rigoletto : [Carlos Almaguer](/artists/carlos_almaguer)
 - Duc de Mantoue : [Stefan Pop](/artists/stefan_pop/)
 - Sparafucile : [Felipe Bou](/artists/felipe_bou/)
 - Monterone : [Nika Guliashvili](/artists/nika_guliashvili)
-- Marullo : Armen Karapetyan
+- Marullo : [Armen Karapetyan](/artists/armen_karapetyan/)
 - Borsa : [Alfred Bironien](/artists/alfred_bironien/)
 - Comte de Ceprano : [Fabien Leriche](/artists/fabien_leriche/)
 - Huissier de la cour : Yoann Dubruque

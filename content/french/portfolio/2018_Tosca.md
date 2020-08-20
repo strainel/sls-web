@@ -13,25 +13,25 @@ submitDate: 9, 11 et 13 août 2018 à 21H30
 
 
 
-### Equipe
+### Equipe artistique
 
 Opéra en trois actes de Giacomo Puccini
 
 - Direction musicale : [Eric Hull](/artists/eric_hull)
-- Mise en scène : Stefano Vizioli
+- Mise en scène : [Stefano Vizioli](/artists/stefano_vizioli/)
 - Création lumières : Nevio Cavina
 - Scénographie : Mauro Tinti
-- Chef de choeur : Stefano Visconti
+- Chef de choeur : [Stefano Visconti](/artists/stefano_visconti/)
 - Chef de chant : Céline Frétard
 
 
 ### Distribution
 
 - Floria Tosca : [Anna Pirozzi](/artists/anna_pirozzi/)
-- Mario Cavaradossi : Azer Zada
+- Mario Cavaradossi : [Azer Zada](/artists/azer_zada/)
 - Scarpia : [Carlos Almaguer](/artists/carlos_almaguer)
 - Angelotti : [Emanuele Cordaro](/artists/emanuele_cordaro/)
-- Le Sacristain : Armen Karapetyan
+- Le Sacristain : [Armen Karapetyan](/artists/armen_karapetyan/)
 - Spoletta : [Alfred Bironien](/artists/alfred_bironien/)
 - Sciarrone : [Vincent Pavesi](/artists/vincent_pavesi/)
 - Un geôlier : Jesus De Burgos
