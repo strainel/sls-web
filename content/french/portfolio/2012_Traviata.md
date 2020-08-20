@@ -1,7 +1,7 @@
 ---
 title: "2012 : La Traviata"
 type: portfolio
-date: 2014-07-12T16:59:54+06:00
+date: 2012-08-01T16:59:54+06:00
 caption: Giuseppe Verdi
 image: images/portfolio/2012_traviata_01.jpeg
 category: ["opera","verdi"]
