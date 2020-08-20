@@ -3,7 +3,7 @@ title: "2010 : Norma"
 type: portfolio
 date: 2014-07-12T16:59:54+06:00
 caption: Vincenzo Bellini
-image: images/portfolio/2010_norma_01.jpeg
+image: images/portfolio/2010_norma_01.png
 category: ["opera","bellini"]
 liveLink: 
 submitDate: 10, 12 et 14 août 2010 à 21h30

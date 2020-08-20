@@ -3,7 +3,7 @@ title: "2011 : Carmen"
 type: portfolio
 date: 2014-07-12T16:59:54+06:00
 caption: Georges Bizet
-image: images/portfolio/2011_carmen_01.jpeg
+image: images/portfolio/2011_carmen_01.png
 category: ["opera","bizet"]
 liveLink: 
 submitDate: 8, 10, 12 et 14 août 2011 à 21H30
