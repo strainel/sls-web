@@ -8,11 +8,9 @@
                 <div class="block">
                     <h2>{{ .Title }}</h2>
                     <div class="portfolio-meta">
-                        <span>{{ .Date.Format "2006-01-02" }}</span>|
-                        <span> Category: {{ delimit .Params.category ", " }}</span>|
-                        <span> website:
-                            <a href="{{ .Params.liveLink }}">{{ .Params.liveLink }}</a>
-                        </span>
+                        {{ with .Params.category }}
+                        <span>{{ delimit .Params.category ", " }}</span>|
+                        {{ end }}
                     </div>
                 </div>
             </div>
@@ -28,7 +26,7 @@
                 {{ with .Params.image }}
                 <div class="work-single-image">
                     <!-- Work Single Image -->
-                    <img class="img-fluid w-100" src="{{ . | absURL }}" alt="work-single-image">
+                    <img class="img-fluid w-25" src="{{ . | absURL }}" alt="work-single-image">
                 </div>
                 {{ end }}
                 <!-- work single Content -->
@@ -41,20 +39,18 @@
             <div class="col-lg-4">
                 <!-- sidebar -->
                 <div class="work-single-sidebar">
-                    {{ with .Params.client }}
-                    <h5>Clients</h5>
-                    <h6>{{ . }}</h6>
+                    {{ with .Params.role }}
+                    <h5>{{ . }}</h5>
                     {{ end }}
-                    {{ with .Params.submitDate }}
-                    <h5>date</h5>
-                    <h6>{{ . }}</h6>
+                    {{ with .Params.liveLink }}
+                    <h6>Site pro : <a href="{{ . }}">{{ .}}</a></h6>
                     {{ end }}
-                    <h5>category</h5>
-                    <h6>Investment, Business</h6>
-                    {{ with .Params.location }}
-                    <h5>locations</h5>
-                    <h6>{{ . }}</h6>
+                    <h5>À Sanxay</h5>
+                    <ul>
+                    {{ range $index, $element:= .Params.show }}
+                    <li>- {{ .role }}, dans <a href="{{ .url }}">{{ .title }}</a></li>
                     {{ end }}
+                    </ul>
                 </div>
             </div>
         </div>
