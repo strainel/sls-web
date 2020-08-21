@@ -48,7 +48,7 @@ contactFormAction = "#" # contact form works with https://formspree.io
 # Banner Section
 [params.banner]
 enable  = true
-bgImage = "images/carmen.jpg"
+bgImage = "/images/portfolio/2021_carmen/2021_carmen_01.jpg"
 heading = "Carmen - édition 2021"
 description = "Nous vous donnons rendez-vous en août 2021 avec Carmen de Bizet."
 # button
