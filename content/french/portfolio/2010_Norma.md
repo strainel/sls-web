@@ -7,6 +7,8 @@ image: images/portfolio/2010_norma_01.png
 category: ["opera","bellini"]
 liveLink: 
 submitDate: 10, 12 et 14 août 2010 à 21h30
+source: Livret de Felice Romani
+created: Création le 26 décembre 1831 à la Scala de Milan
 ---
 
 ### Le chef d’œuvre de l’opéra romantique italie
@@ -15,11 +17,11 @@ Grande prêtresse gauloise, Norma a couché avec l’ennemi : elle a eu deux enf
 
 Au cœur du bel canto romantique, Norma est un sombre chef d’œuvre d’une grandeur tragique marmoréenne, d’une hauteur de ton qui force le respect et suscite l’émotion la plus pure. Le rôle titre (un des plus périlleux de tout le répertoire opératique !) a été taillé aux mesures surhumaines de Giuditta Pasta  et fut repris par les plus grandes, de la Malibran à la Callas… Laquelle savait trouver l’abandon  rêveur et douloureux du « Casta Diva », sublime aria, qui employé tour à tour par le cinéma et la publicité, est devenu l’une des pièces les plus fameuses de tout le répertoire lyrique.
 
+
+{{< youtube id="7i2TdnmoE1E" >}}
+
+
 ### Equipe artistique
-
-Livret de Felice Romani.
-
-Création le 26 décembre 1831 à la Scala de Milan
 
 - Direction musicale : [Didier Lucchesi](/artists/didier_lucchesi/)
 - Mise en scène, scénographie, éclairages : [Jack Gervais](/artists/jack_gervais/)

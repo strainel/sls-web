@@ -6,7 +6,9 @@ caption: Giacomo Puccini
 image: images/portfolio/2013_butterfly_01.jpeg
 category: ["opera","puccini"]
 liveLink: 
-submitDate: 8, 10 et 12 août 2013 à 21H30
+submitDate: 8, 10 et 12 août 2013 à 21h30
+source: Livret de Luigi Illica et Giacomo Giacosa
+created: Création à la Scala de Milan le 17 février 1904
 ---
 
 ### Une tragédie lyrique au parfum d'Orient !
@@ -15,11 +17,10 @@ submitDate: 8, 10 et 12 août 2013 à 21H30
 
 Imprégné de culture japonaise, d’une grande finesse musicale et d’une sensibilité à fleur de peau, ce chef d’œuvre puccinien a connu et connait encore un immense succès à travers le monde !
 
+
+{{< youtube id="ZEfqzioPq30" >}}
+
 ### Equipe artistique
-
-Livret de Luigi Illica et Giacomo Giacosa.
-
-Création à la Scala de Milan le 17 février 1904.
 
 
 - Direction musicale : [Didier Lucchesi](/artists/didier_lucchesi/)

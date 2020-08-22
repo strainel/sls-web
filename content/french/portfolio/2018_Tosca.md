@@ -6,16 +6,17 @@ description : "This is meta description"
 caption: Giacomo Puccini
 image: images/portfolio/2018_tosca_01.jpeg
 category: ["opera","verdi"]
-liveLink: https://www.themefisher.com
-submitDate: 9, 11 et 13 août 2018 à 21H30
+liveLink: 
+submitDate: 9, 11 et 13 août 2018 à 21h30
+source: Opéra en trois actes de Giacomo Puccini
 ---
 ### Un opéra spectaculaire
 
 
+{{< youtube id="7wFgIBb-Ttc" >}}
+
 
 ### Equipe artistique
-
-Opéra en trois actes de Giacomo Puccini
 
 - Direction musicale : [Eric Hull](/artists/eric_hull)
 - Mise en scène : [Stefano Vizioli](/artists/stefano_vizioli/)

@@ -5,8 +5,10 @@ date: 2017-07-12T16:59:54+06:00
 caption: Giuseppe Verdi
 image: images/portfolio/2017_flute_01.jpeg
 category: ["opera","mozart"]
-liveLink: https://www.themefisher.com
-submitDate: 10, 12 et 14 août 2017 à 21H30
+liveLink: 
+submitDate: 10, 12 et 14 août 2017 à 21h30
+source: Opéra en deux actes de Wolfgang Amadeus Mozart, livret de Emanuel Schikaneder
+created: Création le 30 septembre 1791 au Théâtre Schikaneder de Vienne
 ---
 ### Un opéra spectaculaire
 
@@ -14,13 +16,9 @@ Le Prince Tamino est chargé par la Reine de la Nuit d’aller délivrer sa fill
 
 Au cours de son voyage, Tamino constate que les forces du mal ne sont pas du côté de Sarastro mais de celles de la Reine de la Nuit : cette dernière l’a trompé et elle est prête à tout pour se venger de Sarastro, qu’elle déteste. Truffé de mises à l’épreuve, le parcours de Tamino pour délivrer et conquérir Pamina se charge de symboles qui, de scène en scène, les mènent vers l’amour et la lumière, sous la sagesse bienveillante de Sarastro.
 
+{{< youtube id="uG4_p8M_fp8" >}}
+
 ### Equipe artistique
-
-Opéra en deux actes de Wolfgang Amadeus Mozart
-
-Livret de Emanuel Schikaneder
-
-Création le 30 septembre 1791 au Théâtre Schikaneder de Vienne
 
 
 - Direction musicale : [Eric Hull](/artists/eric_hull)
