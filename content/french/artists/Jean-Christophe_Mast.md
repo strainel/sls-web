@@ -1,11 +1,15 @@
 ---
 title: "Jean-Christophe Mast"
-type: artistes
+type: artists
 date: 2018-07-12T16:59:54+06:00
 image: images/artists/nopic.png
-category: ["mise en scène","aida"]
+role: Mise en scène
 liveLink: 
 submitDate: 
+show:
+  - role: Direction musicale
+    title: Aïda en 2019
+    url : /portfolio/2019_aida/
 ---
 
 Jean-Christophe Mast a suivi des études littéraires et théâtrales. C'est en tant qu'assistant à la mise en scène d'Antoine Bourseiller qu'il fait ses premiers pas dans le monde de l'opéra. (Dialogues des Carmélites à l'opéra de Nancy ).
@@ -25,8 +29,3 @@ En 2009 il entame une collaboration régulière avec Jean-François Zygel dont i
 Depuis 2011, il travaille régulièrement avec les Voix Animées dont il met en scène les spectacles, réalise avec cette compagnie deux web-série La vidéo de promotion des Voiz’ Animées et Space 0.
 
 En 2016, il met en scène Nabucco de Verdi à l’Opéra de Saint-Etienne repris à l’Opéra de Nice et à l’Opéra de Toulon et l’année prochaine à l’Opéra de Marseille.
-
-
-À Sanxay :
-- Mise en scène, dans [Aïda en 2019](/portfolio/2019_aida/)
-

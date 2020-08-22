@@ -1,11 +1,15 @@
 ---
 title: "Olesya Petrova"
-type: artistes
+type: artists
 date: 2018-07-12T16:59:54+06:00
 image: images/artists/olesya_petrova.png
-category: ["mezzo-soprano","aida"]
+role: Mezzo-soprano
 liveLink: 
 submitDate: 
+show:
+  - role: Amnéris
+    title: Aïda en 2019
+    url : /portfolio/2019_aida/
 ---
 
 Olesya Petrova est née à Saint-Petersbourg. Elle a suivi les cours d’Irina Bogacheva au Conservatoire National Rimsly Korsakov de Saint-Peterbourg et en sort diplômée en 2008. En 2007, Olesya Petrova a remporté plusieurs concours internationaux dont le concours Galina Vishnevskaya à Moscou et le concours Tchaikovsky de la même ville. En 2011 elle est finaliste du prestigieux concours de Cardiff.
@@ -17,8 +21,3 @@ Parmi ses rôles de prédilections, citons les rôles d’Azucena (*Il Trovatore
 Très récemment, on a pu l’entendre dans *Luisa Miller* (Federica) et Amneris (*Aïda*) au Metropolitan Opera de New-York, à nouveau dans le rôle d’Amneris (*Aïda*) aux Arènes de Vérone et à Auckland, dans *Le Trouvère* (Azucena) à l’Opéra de Florence, dans *Un Bal masqué* (Ulrica) et dans *La Dame de Pique* (la Comtesse) au Théâtre National de Saint-Petersbourg...
 
 Parmi ses futurs engagements : Aïda (Amnéris) à l’Opéra de San Diego
-
-
-À Sanxay :
-- Amnéris, dans [Aïda en 2019](/portfolio/2019_aida/)
-

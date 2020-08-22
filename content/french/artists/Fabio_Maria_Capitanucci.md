@@ -1,11 +1,15 @@
 	---
 title: "Fabio Maria Capitanucci"
-type: artistes
+type: artists
 date: 2018-07-12T16:59:54+06:00
 image: images/artists/fabio_maria_capitanucci.png
-category: ["baryton","la traviata"]
+role: Baryton
 liveLink: http://www.fabiocapitanucci.com 
 submitDate: 
+show:
+  - role: Giorgio Germont
+    title: La Travaiata en 2012
+    url : /portfolio/2012_traviata/
 ---
 
 Fabio Maria Capitanucci remporte en 1998, à 23 ans, le Concours du Teatro Lirico de Spolète avant d’intégrer l’Accademia di Perfezionamento de La Scala où il obtient, en 2002, le Prix Renato Bruson.
@@ -20,6 +24,3 @@ Cette saison, on l’entendra dans *La Traviata* au Staatsoper de Vienne et à M
 
 Fabio Maria Capitanucci a enregistré chez Emi Madame Butterfly (Sharpless) sous la direction d’A. Pappano, Gina (Uberto) de Cilea chez Bongiovanni, La Bohème chez Opus Arte, La Cambiale di Matrimonio (Slook) chez Stradivarius, I Medici (Poliziano) de Leoncavallo et Fedora (De Sirieux) chez Deutsche Grammophon.
 
-
-À Sanxay :
-- Giorgio Germont, dans [La Travaiata en 2012](/portfolio/2012_traviata/)

@@ -1,11 +1,15 @@
 ---
 title: "Felipe Bou"
-type: artistes
+type: artists
 date: 2018-07-12T16:59:54+06:00
-image: images/artists/melanie_boisvert.png
-category: ["basse","rigoletto"]
+image: images/artists/felipe_bou.png
+role: Basse
 liveLink: 
 submitDate: 
+show:
+  - role: Sparafucile
+    title: Rigoletto en 2016
+    url : /portfolio/2016_rigoletto/
 ---
 
 La basse espagnole Felipe Bou commence ses études de chant en 1990 auprès d'Antonio Blancas et Alfredo Kraus et remporte les premiers prix de nombreux concours internationaux.
@@ -17,7 +21,3 @@ Parmi ses rôles fétiches, on peut citer Les quatre diables (*Les Contes d'Hoff
 Il a interprété de très nombreuses fois le rôle de Saparafucile dans *Rigoletto* et très souvent aux côtés de Leo Nucci. Une des représentations de *Rigoletto* (opéra de Bilbao) est sortie en dvd aux éditions Opus Arte.
 
 Felipe Bou développe parallèlement une intense activité de concertiste. Il s'est notamment fait remarquer lors du Stabat Mater de Rossini au festival de Saint-Denis avec l'orchestre national de France et lors de la Messe pour Rossini au Festival Radio France-Montpellier. 
-
-
-À Sanxay :
-- Sparafucile, dans [Rigoletto en 2016](/portfolio/2016_rigoletto/)

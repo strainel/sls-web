@@ -1,11 +1,21 @@
 ---
 title: "Florian Sempey"
-type: artistes
+type: artists
 date: 2018-07-12T16:59:54+06:00
 image: images/artists/florian_sempey.png
-category: ["baryton","carmen","la traviata","madame butterfly"]
+role: Baryton
 liveLink: 
 submitDate: 
+show:
+  - role: Le Prince Yamadori
+    title: Madame Butterfly en 2013
+    url : /portfolio/2013_butterfly/
+  - role: Le Baron Douphol
+    title: La Traviata en 2012
+    url : /portfolio/2012_traviata/
+  - role: Morales
+    title: Carmen en 2011
+    url : /portfolio/2011_carmen/
 ---
 
 Florian Sempey débute ses études musicales avec l'apprentissage du piano puis vient au chant en entrant dans la classe de Françoise Detchnenique au conservatoire de Libourne tout en y poursuivant le piano avec Alain Perez. Trois ans plus tard, il quitte Libourne avec son diplôme de fin de cycle et une place de finaliste au concours de chant lyrique des Amis du Grand Théâtre de Bordeaux. En 2007, il intègre le conservatoire  de Bordeaux dans la classe de Maryse Castets. Il participera, à cette occasion, à de nombreux projets et masters class (François Leroux, Roland Mancini, Sophie Landy, Michel Laplénie...).
@@ -17,11 +27,3 @@ Il fait ses débuts sur la scène de l'Opéra de Bordeaux en janvier 2010 dans l
 Tout dernièrement, on a pu l’entendre dans le rôle de Figaro (*Le Barbier de Séville*) à Bordeaux et Saint-Etienne, Marullo (*Rigoletto*) à l’opéra national de Paris, Enée (*Didon et Enée*) à Compiègne et Bordeaux.
 
 Il a été nominé dans la catégorie « révélations lyriques » de l’édition 2013 des victoires de la musique. Le public bordelais le retrouve à l’opéra de Bordeaux pour une reprise de *la Flûte enchantée* (rôle de Papageno).
-
-
-
-À Sanxay :
-- Le Prince Yamadori, dans [Madame Butterfly en 2013](/portfolio/2013_butterfly/)
-- Le Baron Douphol, dans [La Traviata en 2012](/portfolio/2012_traviata/)
-- Morales, dans [Carmen en 2011](/portfolio/2011_carmen/)
-

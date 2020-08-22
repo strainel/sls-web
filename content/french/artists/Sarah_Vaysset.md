@@ -1,11 +1,27 @@
 ---
 title: "Sarah Vaysset"
-type: artistes
+type: artists
 date: 2018-07-12T16:59:54+06:00
 image: images/artists/sarah_vaysset.png
-category: ["soprano","nabucco","madame butterfly","la traviata","carmen","aida"]
+role: Soprano
 liveLink: 
 submitDate: 
+show:
+  - role: Anna
+    title: Nabucco en 2014
+    url : /portfolio/2014_nabucco/
+  - role: Kate Pinkerton
+    title: Madame Butterfly en 2013
+    url : /portfolio/2013_butterfly/
+  - role: Flora
+    title: La Traviata en 2012
+    url : /portfolio/2012_traviata/
+  - role: Frasquita
+    title: Carmen en 2011
+    url : /portfolio/2011_carmen/
+  - role: La Grande Prêtresse
+    title: Aïda en 2009
+    url : /portfolio/2009_aida/
 ---
 
 Après un premier prix de chant lyrique au Conservatoire National Supérieur de Musique de Paris, Sarah Vaysset poursuit ses études au Centre de Formation Lyrique de L’Opéra National de Paris.
@@ -15,13 +31,3 @@ Après un premier prix de chant lyrique au Conservatoire National Supérieur de 
 Outre ce répertoire opératique, Sarah Vaysset se produit aussi régulièrement en récital. Elle s'est produite au Musée d’Orsay autour du thème « voyage et exotisme », récital retransmis sur France Musiques.
 
 Sarah Vaysset a fait ses débuts à La Scala de Milan, dans *Carmen* (Frasquita) en 2004, sous la direction de Michel Plasson.
-
-
-À Sanxay :
-- Anna, dans [Nabucco en 2014](/portfolio/2014_nabucco/)
-- Kate Pinkerton, dans [Madame Butterfly en 2013](/portfolio/2013_butterfly/)
-- Flora, dans [La Traviata en 2012](/portfolio/2012_traviata/)
-- Frasquita, dans [Carmen en 2011](/portfolio/2011_carmen/)
-- La Grande Prêtresse, dans [Aïda en 2009](/portfolio/2009_aida/)
-
-

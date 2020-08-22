@@ -1,11 +1,15 @@
 ---
 title: "Luiz Ottavio Faria"
-type: artistes
+type: artists
 date: 2018-07-12T16:59:54+06:00
 image: images/artists/liuz_ottavio_faria.png
-category: ["basse","la flûte enchantée"]
+role: Basse
 liveLink: 
 submitDate: 
+show:
+  - role: Sarastro
+    title: La Flûte enchantée en 2017
+    url : /portfolio/2017_flute/
 ---
 
 Luiz Ottavio Faria est diplômé de la très prestigieuse Julliard School of Music de New-York. Il a remporté le premier prix de très nombreux concours internationaux.
@@ -17,8 +21,3 @@ Il a collaboré avec les plus grands chefs d’orchestre et metteurs en scène :
 Ses rôles favoris comprennent Zaccaria (*Nabucco*), Ramfis (*Aïda*), Fiesco (*Simon Boccanegra*), le Grand Inquisiteur (*Don Carlo*), Ferrando (*Il Trovatore*), Sarastro (*La Flûte enchantée*), Osmin (*L’Enlèvement au sérail*), Colline (*la Bohème*), Timur (*Turandot*).
 
 Parmi ses prochains engagements, citons le rôle du Grand Inquisiteur (*Don Carlo*) et Fiesco (*Simon Boccanegra*) à l’opéra de Bologne, Alfonso d’Este (*Lucrezia Borgia*) à l’Opéra de La Coruna aux côtés de Mariella Devia.
-
-
-
-À Sanxay :
-- Sarastro, dans [La Flûte enchantée en 2017](/portfolio/2017_flute/)

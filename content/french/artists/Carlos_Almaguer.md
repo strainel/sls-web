@@ -1,11 +1,18 @@
 ---
 title: "Carlos Almaguer"
-type: artistes
+type: artists
 date: 2018-07-12T16:59:54+06:00
 image: images/artists/carlos_almaguer.png
-category: ["soprano","aida"]
-liveLink: https://www.themefisher.com
+role: Soprano
+liveLink: 
 submitDate: 
+show:
+  - role: Scarpia
+    title: Tosca en 2018
+    url : /portfolio/2018_tosca/
+  - role: Rigoletto
+    title: Rigoletto en 2016
+    url : /portfolio/2016_rigoletto/
 ---
 
 Né à Mexico City, Carlos Almaguer a débuté ses études de chant avec Francesco Amador. Il s’est ensuite perfectionné avec Carlo Bergonzi à l’Académie de Sienne et Vicente Sardinero à Madrid. 
@@ -19,7 +26,3 @@ Il complète son répertoire par des rôles véristes qui conviennent à sa voix
 Parmi ses productions récentes on peut citer: Rigoletto à l’Opéra National d'Israël, au San Carlo de Naples, au Grand Théâtre de Gênes, à l'Opéra National d'Athènes et au festival de Taormina, Le Trouvère à l’Opéra de Marseille, Aida à l’Opéra de Toulon, à l'Opéra National de Pékin et aux Arènes de Vérone,  La Battaglia di Legnano au Staatsoper de Hambourg, Tosca à l’Opéra de Marseille à l'Opéra de Toulon et au festival de Torre del Lago, Nabucco à l'Opéra National de Varsovie, La Fanciulla del West à l'Opéra Royal de Wallonie.
 
 Prochain engagement : Tosca (Scarpia) à l’opéra de Bologne.
-
-À Sanxay :
-- Rigoletto, dans [Rigoletto en 2016](/portfolio/2016_rigoletto/)
-- Scarpia, dans [Tosca en 2018](/portfolio/2018_tosca/)

@@ -1,11 +1,15 @@
 ---
 title: "Valerio Galli"
-type: artistes
+type: artists
 date: 2018-07-12T16:59:54+06:00
 image: images/artists/valerio_galli.png
-category: ["direction musicale","aida"]
+role: Direction musicale
 liveLink: 
 submitDate: 
+show:
+  - role: Direction musicale
+    title: Aïda en 2019
+    url : /portfolio/2019_aida/
 ---
 
 Né à Viareggio (Italie), le maestro Valerio Galli a obtenu un diplôme de piano en 2002 et de composition en 2008. En 2003, il débute ses études de direction d'orchestre auprès de Piero Bellugi, Aldo Faldi, Donato Renzetti et Carlo Moreno Volpini. En 2005, il est l’assistant du maestro David Kram au Her Majesty's Theatre à Melbourne. Ses débuts de chef d’orchestre ont lieu en 2004 avec Madama Butterfly au Théâtre Mancinelli d’Orvieto, suivi de The Little Sweep for Children de Britten et de New Clothes de Zangelmi Emperor.
@@ -21,8 +25,3 @@ Il a eu un grand succès critique et public pour ses débuts au Michigan Opera T
 Ses engagements récents incluent : *Madame Butterfly* à Brescia (version 1904) et à Gênes ; *La Force du destin* à Pise et à Gênes ; *Tosca* pour l'inauguration du 61ème festival Puccini, puis à Catane, Florence, Bologne et Détroit ; *Turandot* pour l'inauguration du théâtre Huafa (Chine) et plus tard à San Diego ; *Madame Butterfly* dans les théâtres de Lucca, Livourne, Rovigo, Piacenza, Modène, Locarno et Toulon ; *Tosca* à Bologne et au Michigan Opera, *La Bohème* à Naples et Parme ; *Pagliacci* à Vérone, *Don Carlo* à Gênes ; *La Rondine* à Florence, *L’Elixir d’amour* à Toulon, *Turandot* à Bologne.
 
 Parmi ses engagements à venir:  *I Pagliacci / Noi* et *Il Trittico* au Mai Musical Florentin, *La Bohème* à San Diego, *Turandot* à Parme, Modène, Plaisance et *Mefistofele de Boïto* à Stuttgart.
-
-
-
-À Sanxay :
-- Direction musciale, dans [Aïda en 2019](/portfolio/2019_aida/)

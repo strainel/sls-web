@@ -1,11 +1,15 @@
 ---
 title: "Vincent Pavesi"
-type: artistes
+type: artists
 date: 2018-07-12T16:59:54+06:00
 image: images/artists/vincent_pavesi.png
-category: ["basse","tosca"]
+role: Basse
 liveLink: 
 submitDate: 
+show:
+  - role: Sciarrone
+    title: Tosca en 2018
+    url : /portfolio/2018_tosca/
 ---
 
 Vincent Pavesi a fait ses études au Conservatoire National Supérieur de Musique, dans les classes de Régine Crespin et de Christiane Eda-Pierre. Il a ensuite étudié à Londres avec Valérie Masterson ainsi qu'avec Tom Krause.
@@ -21,9 +25,3 @@ Vincent Pavesi a collaboré avec des metteurs en scène comme Renaud Doucet, And
 Il a également travaillé avec Peter Brook sur *Une Flûte Enchantée*, un spectacle où il a interprété Sarastro pour plus de 120 représentations dans 24 pays.
  
 Attaché à la musique de son temps, il a participé à la création des oeuvres de Elena Kats-Chernin (Il canto d'Ulisse), Oscar Strasnoy (Slutchaï) et Catherine Kontz (Neige).
-
-
-À Sanxay :
-- Sciarrone, dans [Tosca en 2018](/portfolio/2018_tosca/)
-
-

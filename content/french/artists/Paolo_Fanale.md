@@ -1,11 +1,15 @@
 ---
 title: "Paolo Fanale"
-type: artistes
+type: artists
 date: 2018-07-12T16:59:54+06:00
 image: images/artists/paolo_fanale.png
-category: ["tenor","la flute enchantée"]
+role: Ténor
 liveLink: 
 submitDate: 
+show:
+  - role: Tamino
+    title: La Flûte enchantée en 2017
+    url : /portfolio/2017_flute/
 ---
 
 Paolo Fanale est né à Palerme et a étudié le chant au Conservatoire Vincenzo Bellini aux côtés de Domenico Sanfilippo. Il fait ses débuts en tant que Don Ottavio (*Don Giovanni*) à Padoue. Depuis une dizaine d’année, il se produit sur les grandes scènes internationales : la Scala de Milan, le Metropolitan de New-York, l’Opéra National de Paris, le Théâtre du Châtelet, le Staatsoper de Munich, le festival de Salzbourg, le Deutschoper et le Staatsoper de Berlin, le Liceu de Barcelone, le Théâtre des Champs-Elysées, la Philarmonie de Paris, le théâtre an der Wien, le nouvel opéra national de Tokyo, l’opéra national de Norvège, l’opéra de Rome, le festival de Lucerne. Il est également apparu sur les scènes de Helsinski, Gênes,  Valence,  Strasbourg, Naples, Florence, Amsterdam, Vérone, Turin, Monte-Carlo, Marseille, Bologne, Palerme.
@@ -19,7 +23,3 @@ Le répertoire de Paolo Fanale comprend les rôles de Fenton (*Falstaff*), Hylas
 Lors de la prochaine saison, il chantera dans *La notte di un nevrastenico* et *Gianni Schicchi* à l’opéra de Montpellier, dans *Cosi fan tutte* à l’opéra de Munich, dans *Don Pasquale* à Bilbao, dans une version concert de *Lucia di Lammermoor* au Théâtre des Champs-Elysées, à l’opéra de Marseille dans *La Favorite*, au Staastsoper de Vienne dans *L’Elisir d’amore*.
 
 Ses enregistrements CD comprennent le messe en Do mineur Waisenhausmesse K139 de Mozart et la messe en Mi bémol majeur D950 de Schubert sous la baguette de Claudio Abbado enregistrés lors de l’édition de 2012 du Festival de Salzbourg. En DVD : *Falstaff* au Métropolitan opera de New-York dirigé par James Levine.
-
-
-À Sanxay :
-- Tamino, dans [La Flûte enchantée en 2017](/portfolio/2017_flute/)

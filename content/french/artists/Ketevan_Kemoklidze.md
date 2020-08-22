@@ -1,11 +1,15 @@
 ---
 title: "Ketevan Kemoklidze"
-type: artistes
+type: artists
 date: 2018-07-12T16:59:54+06:00
 image: images/artists/ketevan_kemoklidze.png
-category: ["mezzo-soprano","rigoletto"]
+role: Mezzo-soprano
 liveLink: 
 submitDate: 
+show:
+  - role: Maddalena
+    title: Rigoletto en 2016
+    url : /portfolio/2016_rigoletto/
 ---
 
 Née à Tbilissi, cette jeune mezzo-soprano géorgienne se produit depuis quelques années sur les plus grandes scènes du monde lyrique: La Scala de Milan, le Covent Garden de Londres, le Théâtre Royal de Madrid, le San Carlo de Naples, les Arènes de Vérone, le Capitole de Toulouse, l'Opéra de Monte-Carlo, la Fenice de Venise, l'Opéra de Los Angeles, l'Opéra National de Washington, l'Opéra National de Tokyo, le festival de Macerata, le festival de Wexford etc...
@@ -20,6 +24,3 @@ Prochains grands engagements : *Carmen* (rôle titre) à Duisbourg et à Dusseld
 
 *Invitée pour la première fois à Sanxay.*
 
-
-À Sanxay :
-- Maddalena, dans [Rigoletto en 2016](/portfolio/2016_rigoletto/)

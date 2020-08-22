@@ -1,11 +1,15 @@
 ---
 title: "Jérôme Bourdin"
-type: artistes
+type: artists
 date: 2018-07-12T16:59:54+06:00
 image: images/artists/jerome_bourdin.png
-category: ["costume designer","scénographe","aida"]
+role: Costume designer et scénographe
 liveLink: 
 submitDate: 
+show:
+  - role: Scénographie
+    title: Aïda en 2019
+    url : /portfolio/2019_aida/
 ---
 
 Après des études d’Arts plastiques et d’Histoire de l’art à Paris, Jérôme Bourdin suit une formation de styliste modéliste au Studio Berçot. Après un passage chez Claude Montanan il entame en 2000 sa collaboration avec le décorateur Frédéric Pineau qui le mène du Music-Hall à l’Opéra. Il signe avec lui ses premiers costumes pour *Le Tour du monde en 80 nuits* (Opéra de Shanghai), une comédie musicale réalisée par Pierre-Jean San Bartolomé.
@@ -21,7 +25,3 @@ Jérôme Bourdin a aussi créé les costumes du film *La Nouvelle Blanche-Neige*
 Pour le Super Summer Théâtre de Las Vegas il dessine les costumes de *Chitty Chitty Bang Bang* et de *Memphis* (Philip Shelburn) ainsi que ceux de *Tournament of Kings* de Patrick Jackson pour l’hôtel Exalibur de Las Vegas.
 
 En 2018, il a signé les décors et les costumes d’Herodiade (opéra de Marseille, mise en scène de Jean-Louis Pichon ), les costumes des Pêcheurs de perles (opéra de Limoges, mise en scène de Bernard Pisani), les décors de Guru (Opera de Szczecin, mise en scène de Damian Cruden), les costumes de *Big Fish* (Super Summer Théâtre de Las Vegas, mise en scène de Phil Shelburn).
-
-
-À Sanxay :
-- Scénographie, dans [Aïda en 2019](/portfolio/2019_aida/)

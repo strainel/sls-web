@@ -1,11 +1,18 @@
 ---
 title: "Stefano Vizioli"
-type: artistes
+type: artists
 date: 2018-07-12T16:59:54+06:00
 image: images/artists/stefano_vizioli.png
-category: ["mise en scène","tosca","la flûte enchantée"]
+role: Mise en scène
 liveLink: 
 submitDate: 
+show:
+  - role: Mise en scène
+    title: Tosca en 2018
+    url : /portfolio/2018_tosca/
+  - role: Mise en scène
+    title: La Flûte enchantée en 2017
+    url : /portfolio/2017_flute/
 ---
 
 Originaire de Naples, Stefano Vizioli obtient un diplôme de piano au conservatoire de sa ville natale. C’est en 1979 qu’il commence sa carrière de metteur en scène.
@@ -22,14 +29,6 @@ Parallèlement à ses activités internationales, il est très concerné par les
 
 Le Capitole de Toulouse lui a confié la mise en scène du Prophète de Meyerbeer (nouvelle production).
 
-Depuis 2016, il assure la direction artistique de l’opéra de Pise.
+Depuis 2016, il **assure la direction artistique de l’opéra de Pise**.
 
-Parmi ses projets, citons, entre autres : reprise du Trovatore à l’Opéra Royal de Wallonie et au théâtre de la Maestranza à Séville, Norma au théâtre Colon de Buenos Aires, Lucia di Lammermoor à Pise.
-
-
-
-À Sanxay :
-- Mise en scène, dans [Tosca en 2018](/portfolio/2018_tosca/)
-- Mise en scène, dans [La Flûte enchantée en 2017](/portfolio/2017_flute/)
-
-
+Parmi ses projets, citons, entre autres : reprise du *Trovatore* à l’Opéra Royal de Wallonie et au théâtre de la Maestranza à Séville, *Norma* au théâtre Colon de Buenos Aires, *Lucia di Lammermoor* à Pise.

@@ -1,11 +1,15 @@
 ---
 title: "Irakli Kakhidze"
-type: artistes
+type: artists
 date: 2018-07-12T16:59:54+06:00
 image: images/artists/irakli_kakhidze.png
-category: ["tenor","aida"]
-liveLink: https://www.themefisher.com
+role: Ténor
+liveLink: 
 submitDate: 
+show:
+  - role: Radamès
+    title: Aïda en 2019
+    url : /portfolio/2019_aida/
 ---
 
 Né à Batumi (Géorgie), Irakli Kakhidze intègre l'École de Musique de sa ville natale et sort diplômé du Conservatoire d'État Paliashvili de Batumi (classe de Marina Jakhutashvili). Il poursuit ensuite sa formation en France, dans le cadre du CNIPAL de Marseille.
@@ -21,7 +25,3 @@ Récemment, on a pu l’entendre dans les rôles de Radames (*Aïda*), Alfredo (
 Parmi ses futurs engagements, citons Don José (*Carmen*) à l’opéra d’Avignon et à l’opéra de Mannheim, Mario Cavaradossi (*Tosca*) à l’opéra de Lille.
 
 Irakli Kakhidze est Commandeur de l'Ordre National Géorgien de la Dignité.
-
-
-À Sanxay :
-- Radamès, dans [Aïda en 2019](/portfolio/2019_aida/)

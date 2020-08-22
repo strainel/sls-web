@@ -1,11 +1,18 @@
 ---
 title: "Rudy Park"
-type: artistes
+type: artists
 date: 2018-07-12T16:59:54+06:00
 image: images/artists/rudy_park.png
-category: ["ténor","Turandot"]
+role: Ténor
 liveLink: 
 submitDate: 
+show:
+  - role: Ténor
+    title: Concert Tenorissimo en 2016
+    url : /portfolio/2016_tenorissimo/
+  - role: Calaf
+    title: Turandot en 2015
+    url : /portfolio/2015_turandot/
 ---
 
 Rudy Park (Ji Eung Park) a étudié le chant en Corée du Sud et les poursuit en Italie à partir de 2002, en intégrant le Conservatoire de Musique de Santa Cecilia à Rome. Il est lauréat de très nombreux concours : Anemos Lyric Competition à Rome ; Mario Lanza International Competition à Filignano (Italie).
@@ -19,10 +26,3 @@ Ses début à l’Opéra Royal de Wallonie à Liège dans *Aïda* (Radames) et s
 Prochains grands engagements : Otello (role titre) à Séoul et Las Palmas, *Tosca* à Genova, *Le Trouvère* à Rovigo, *Cavalleria Rusticana* à Palerme et *Turandot* au festival Torre del Lago.
 
 **Invité pour la première fois à Sanxay.**
-
-
-
-À Sanxay :
-- Ténor, dans [Concert Tenorissimo en 2016](/portfolio/2016_tenorissimo/)
-- Calaf, dans [Turandot en 2015](/portfolio/2015_turandot/)
-

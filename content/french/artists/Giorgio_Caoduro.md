@@ -1,11 +1,15 @@
 ---
 title: "Rodolphe Briand"
-type: artistes
+type: artists
 date: 2018-07-12T16:59:54+06:00
-image: images/artists/giorgio_caoduro.png
-category: ["baryton","la flute enchantée"]
+image: images/artists/rodolphe_briand.png
+role: Baryton
 liveLink: 
 submitDate: 
+show:
+  - role: Papageno
+    title: La Flûte enchantée en 2017
+    url : /portfolio/2017_flute/
 ---
 
 Né à Monfalcone en Italie, le baryton Giorgio Caoduro a étudié le chant auprès de la soprano Cecilia Fusco et est lauréat de plusieurs prix internationaux dont celui du Concours international de L’Associazione Lirica Concertistica de Milan.
@@ -16,10 +20,6 @@ Parmi ses interprétations majeures, citons Figaro (*Le Barbier de Séville*), B
 
 Giorgio Caoduro s’est produit aux côtés des plus grands chefs d’orchestre : James Conlon, Zubin Metha, Michel Plasson, Carlo Rizzi, Renato Palumbo, Bruno Bartoletti, Daniel Harding, Jesus lopez Cobos, Bruno Campanella…
 
-Il vient de recevoir le Green Room Award de Melbourne dans la catégorie meilleur chanteur lyrique masculin.
+Il a reçu le Green Room Award de Melbourne dans la catégorie meilleur chanteur lyrique masculin.
 
 Enregistrement DVD : *L’Italienne à Alger* aux éditions Bel Air Classic, captation de la production du festival d’Aix-en-Provence en 2007.
-
-
-À Sanxay :
-- Papageno, dans [La Flûte enchantée en 2017](/portfolio/2017_flute/)

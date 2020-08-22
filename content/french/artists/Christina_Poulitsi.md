@@ -1,11 +1,15 @@
 ---
 title: "Christina Poulitsi"
-type: artistes
+type: artists
 date: 2018-07-12T16:59:54+06:00
 image: images/artists/christina_poulitsi.png
-category: ["soprano","éclairage","la flûte enchantée"]
+role: Soprano
 liveLink: 
 submitDate: 
+show:
+  - role: La Reine de la Nuit
+    title: La Flûte enchantée en 2017
+    url : /portfolio/2017_flute/
 ---
 
 Reconnue comme étant l’une des sopranos coloratures les plus prometteuses de sa génération, la soprano grecque Christina Poulitsi se produit sur les plus grandes scènes lyriques internationales.
@@ -19,8 +23,3 @@ Elle vient de remporter un très grand succès pour son interprétation de Gilda
 Ses rôles de prédilection comprennent La Reine de la nuit (*La Flûte enchantée*), Gilda (*Rigoletto*), Musette (*la Bohème*), La Comtesse de Folleville (*Le Voyage à Reims*), Sœur Constance (*Le Dialogue des Carmélites*), Constance (*l’Enlèvement au sérail*).
 
 Elle a remporté le premier prix de la fondation « Maria Callas », le premier prix du Concours International « Nico Dostal » à Vienne, et a été finaliste du concours Operalia « Placido Domingo ».
-
-
-À Sanxay :
-- La Reine de la Nuit, dans [La Flûte enchantée en 2017](/portfolio/2017_flute/)
-

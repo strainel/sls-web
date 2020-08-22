@@ -1,11 +1,18 @@
 ---
 title: "Lianna Haroutounian"
-type: artistes
+type: artists
 date: 2018-07-12T16:59:54+06:00
 image: images/artists/lianna_haroutounian.png
-category: ["soprano","la traviata","madame butterfly"]
+role: Soprano
 liveLink: http://www.liannaharoutounian.com
 submitDate: 
+show:
+  - role: Cio-Cio-San (8 et 10 août)
+    title: Madame Butterfly en 2013
+    url : /portfolio/2013_butterfly/
+  - role: Violetta
+    title: La Traviata en 2012
+    url : /portfolio/2012_traviata/
 ---
 
 Lianna Haroutounian est considérée comme l’une des sopranos verdienne et puccinienne les plus prometteuses de sa génération. Ses importants moyens de lyrico–spinto lui permettent d’aborder un large répertoire d’opéra, ainsi que la musique sacrée et la musique de chambre.
@@ -19,8 +26,3 @@ Elle fait ses débuts sur scène dans le rôle de Violetta (*La Traviata*) au z�
 Plus récemment, on a pu l’entendre dans le Requiem de Verdi à l’Opéra de Saint-Etienne, dans *Faust* (Marguerite) à l’opéra de Massy aux côtés d’Alfred Kim (mise en scène de Paul-Emile Fourny), dans *Simon Boccanegra* (Amelia/Maria), *La Bohème* (Mimi) et *Un Ballo in maschera* (Amelia) à l’Opéra de Tours, spectacles mis en scène par Gilles Bouillon et sous la direction de Jean-Yves Ossonce.
 
 Elle vient de faire des début très remarqués dans *les Vêpres Siciliennes* de Verdi à l’opéra national d’Athènes  et à l’opéra de Bilbao. Elle a fait, en mai 2013, ses débuts dans *Don Carlo* (Elisabeth) sur la prestigieuse scène du Covent Garden de Londres et aux côtés de Jonas Kauffman.
-
-
-À Sanxay :
-- Cio-Cio-San (8 et 10 août), dans [Madame Butterfly en 2013](/portfolio/2013_butterfly/)
-- Violetta, dans [La Traviata en 2012](/portfolio/2012_traviata/)

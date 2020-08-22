@@ -1,12 +1,25 @@
 ---
 title: "Thiago Arancam"
-type: artistes
+type: artists
 date: 2018-07-12T16:59:54+06:00
 caption: Giacomo Puccini
 image: images/artists/carlos_almaguer.png
-category: ["tenor","carmen","norma","aida","madame butterfly"]
+role: Ténor
 liveLink: http://www.thiagoarancam.com 
 submitDate: 
+show:
+  - role: Benjamin Franklin Pinkerton
+    title: Madame Butterfly en 2013
+    url : /portfolio/2013_madame_butterfly/
+  - role: Don José
+    title: Carmen en 2011
+    url : /portfolio/2011_carmen/
+  - role: Pollione
+    title: Norma en 2010
+    url : /portfolio/2010_norma/
+  - role: Radamès
+    title: Aïda en 2009
+    url : /portfolio/2009_aida/
 ---
 
 Né à San Paolo au Brésil, Thiago Arancam débute ses études de chant à la faculté de musique "Carlos Gomez" de cette même ville où il obtient son diplôme de fin d'études. A l'âge de 22 ans, il remporte le premier prix du concours de chant international "Bidu Sayao".
@@ -23,12 +36,3 @@ Ces trois dernières saisons, on a pu l’entendre dans Adriana Lecouvreur à l�
 
 Prochains grands engagements :
 Carmen à l’opéra de Lausanne (sous la direction  de Placido Domingo) et au théâtre Colon de Buenos Aires.
-
-
-site internet : http://www.thiagoarancam.com 
-
-À Sanxay :
-- Benjamin Franklin Pinkerton, dans [Madame Butterfly en 2013](/portfolio/2013_madame_butterfly/)
-- Don José, dans [Carmen en 2011](/portfolio/2011_carmen/)
-- Pollione, dans [Norma en 2010](/portfolio/2010_norma/)
-- Radamès, dans [Aïda en 2009](/portfolio/2009_aida/)

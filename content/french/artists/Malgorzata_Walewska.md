@@ -1,11 +1,15 @@
 ---
 title: "Malgorzata Walewska"
-type: artistes
+type: artists
 date: 2018-07-12T16:59:54+06:00
 image: images/artists/malgorzata_walewska.png
-category: ["mezzo-soprano","aida"]
+role: Mezzo-soprano
 liveLink: http://www.walewska.net 
 submitDate: 
+show:
+  - role: Amnéris
+    title: Aïda en 2009
+    url : /portfolio/2009_aida/
 ---
 
 De nationalité polonaise, Malgorzata Walewska débute ses études de chant au Conservatoire national de Warsovie où elle obtient son diplôme de fin d'étude. Très rapidement, elle devient lauréate des plus prestigieux concours internationaux : premier prix au concours "Alfredo Kraus" à Las Palmas, premier prix au concours Luciano Pavarotti à Philadelphie, deuxième prix au concours Meniuszko à Warsovie.
@@ -22,10 +26,3 @@ Outre le répertoire opératique, Malgorzata Walewska consacre également une pa
 
 Derniers grands engagements :  
 *Il Trovatore* (Covent Garden-Londres), *Le Château de Barbe-Bleue* (Opéra de Seattle), *Un Ballo in Maschera* (Opéra Royal de Madrid), *Sansom et Dalila* (Metropolitan Opera-New-York), *Il Trovatore* (Opera de San Francisco), *Aïda* (Opera de Seattle), *Adianna Lecouvreur* (Covent Garden), *Sansom et Dalila* (Deutschoper-Berlin)
-
-
-
-À Sanxay :
-- Amnéris, dans [Aïda en 2009](/portfolio/2009_aida/)
-
-

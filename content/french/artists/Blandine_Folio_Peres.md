@@ -3,9 +3,13 @@ title: "Blandine Folio Peres"
 type: artistes
 date: 2018-07-12T16:59:54+06:00
 image: images/artists/blandine_folio_peres.png
-category: ["mezzo-soprano","rigoletto"]
+role: Mezzo-soprano
 liveLink: 
 submitDate: 
+show:
+  - role: Comtesse de Ceprano / un page
+    title: Rigoletto en 2016
+    url : /portfolio/2016_rigoletto/
 ---
 
 Après des études de flûte traversière et une maîtrise de musicologie, Blandine Folio Peres se consacre au chant, et entre en 2002 au Conservatoire National Supérieur de Musique de Paris où elle obtient son diplôme, mention très bien en juin 2006. Elle part se perfectionner à la Musikhochschule Hanns Eisler à Berlin avec la mezzo Anneliese Fried, puis à Paris avec Christine Schweitzer et maintenant Florence Guignolet. 
@@ -18,6 +22,3 @@ Elle se produit également à l'opéra national de Lorraine en interprétant Tis
 
 Parmi ses engagements plus récents, citons Annina (La Traviata) à l'opéra de Tours, ainsi que la femme dans *le Carnet d'un disparu* de Janacek à l'opéra de Dijon.
 
-
-À Sanxay :
-- Comtesse de Ceprano/un page, dans [Rigoletto en 2016](/portfolio/2016_rigoletto/)

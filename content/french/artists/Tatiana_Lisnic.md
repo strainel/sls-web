@@ -1,11 +1,18 @@
 ---
 title: "Tatiana Lisnic"
-type: artistes
+type: artists
 date: 2018-07-12T16:59:54+06:00
 image: images/artists/tatiana_lisnic.png
-category: ["soprano","la flute enchantée","turandot"]
+role: Soprano
 liveLink: 
 submitDate: 
+show:
+  - role: Pamina
+    title: La flûte enchantée en 2017
+    url : /portfolio/2017_flute/
+  - role: Liù
+    title: Turandot en 2015
+    url : /portfolio/2015_turandot/
 ---
 
 Née en Moldavie, Tatiana Lisnic commence ses études au Conservatoire de Kichinev, les poursuit au Conservatoire de Cluj, en Roumanie puis se perfectionne en Italie avec Alida Ferrarini.
@@ -22,8 +29,3 @@ Au cours de la saison 2014-15, on a pu l'entendre dans *Faust* (Marguerite) au S
 
 Enregistrements :
 Gianni Schicchi Naxos, CD et Le Nozze di Figaro, TDK , DVD, R. Muti
-
-
-À Sanxay :
-- Pamina, dans [La flûte enchantée en 2017](/portfolio/2017_flute/)
-- Liù, dans [Turandot en 2015](/portfolio/2015_turandot/)

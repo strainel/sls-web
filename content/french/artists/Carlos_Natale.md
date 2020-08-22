@@ -1,12 +1,16 @@
 ---
 title: "Carlos Natale"
-type: artistes
+type: artists
 date: 2018-07-12T16:59:54+06:00
 caption: Giacomo Puccini
 image: images/artists/carlos_natale.png
-category: ["ténor","Turandot"]
+role: Ténor
 liveLink: 
 submitDate: 
+show:
+  - role: Pong
+    title: Turandot en 2015
+    url : /portfolio/2015_turandot/
 ---
 
 Carlos Natale est né à Buenos Aires en Argentine où il fait ses études musicales. Il a obtenu son diplôme de chanteur lyrique à l’Institut Supérieur d’Art du Théâtre Colon de Buenos Aires, ainsi qu’un Master à l’Académie Mozarteum de Salzbourg. Depuis quelques années, il est invité régulièrement à se produire sur des scènes prestigieuses en Argentine, aux Etats-Unis, en France, en Allemagne, en Autriche et en Italie.
@@ -26,8 +30,4 @@ Parmi ses productions les plus récentes, citons *Roméo et Juliette* de Gounod 
 Carlos Natale a travaillé avec des chefs et metteurs en scène prestigieux tels que Gianluca Gelmetti, John Neschling, Antonio Pirolli, Marco Guidarini, Filippo Maria Bressan, Donato Renzetti, Krzysztof Penderecki, Jonas Alber, Jonathan Webb, Alain Antinoglu, Stefano Vizioli, Andrea Cigni, Roberto Oswald, Antonio Petris, Mikael Hampe, Gianfranco De Bosio, Claudio Scimone, Antonino Fogliani.
 
 Il a enregistré Le Disgrazie d’Amore d’Antonio Cesti pour Hypérion Records (2010) et L’Assassinio nella cattedrale de Pizzetti pour Sony Classical (2013)
-
-
-À Sanxay :
-- Pong, dans [Turandot en 2015](/portfolio/2015_turandot/)
 

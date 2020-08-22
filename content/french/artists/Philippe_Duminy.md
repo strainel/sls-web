@@ -1,11 +1,15 @@
 ---
 title: "Philippe Duminy"
-type: artistes
+type: artists
 date: 2018-07-12T16:59:54+06:00
 image: images/artists/philippe_duminy.png
-category: ["baryton","carmen"]
+role: Baryton
 liveLink: 
 submitDate: 
+show:
+  - role: Dancaïre
+    title: Carmen en 2011
+    url : /portfolio/2011_carmen/
 ---
 
 Né à Boulogne, il obtient le premier prix du CNSM de Paris. Rolf Liebermann l’engage à l’Opéra de Paris où il chante des rôles tels que Figaro (Il Barbiere di Siviglia), Schaundart (La Bohème), Lescaut (Manon Lescaut), Masetto (Don Giovanni), Papageno (Die Zauberflöte), Mercutio (Roméo et Juliette), Oreste (Iphigénie en Tauride), Achillas (Giulio Cesare), La Damnation de Faust… Parallèlement, il se produit sur de nombreuses scènes françaises et européennes où il chante des rôles tels que Sancho (Don Quichotte), Luna (Il Trovatore), Cedric (Ivanhoé), Ottokar (Der Freischütz).
@@ -16,7 +20,3 @@ En 1998-1999, il fait ses débuts à l’Opéra de Zurich, où il chante Don And
 
 Plus récemment, il a été le Général Garrido dans *La Navarraise* de Massenet à Sassari, Fieramosca dans *Benvenuto Cellini* (avec l’Orchestre de Paris, sous la direction musicale de C. Eschenbach), le Général Boum dans *La Grande Duchesse de Gérolstein* à Graz, sous la direction de Nicolas Harnoncourt, Valentin dans *Faust* à Bâle et a été l’invité des nouvelles productions de *De la maison des morts* et *Tristan et Isolde* (Melot) au Grand Théâtre de Genève.
 
-
-
-À Sanxay :
-- Dancaïre, dans [Carmen en 2011](/portfolio/2011_carmen/)

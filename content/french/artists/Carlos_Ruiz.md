@@ -1,11 +1,15 @@
 ---
 title: "Carlos Ruiz"
-type: artistes
+type: artists
 date: 2018-07-12T16:59:54+06:00
 image: images/artists/carlos_ruiz.png
-category: ["choregraphe","carmen"]
+role: Choregraphe
 liveLink: 
 submitDate: 
+show:
+  - role: Chorégraphie
+    title: Carmen en 2011
+    url : /portfolio/2011_carmen/
 ---
 
 Carlos Ruiz commence en 1997 sa formation de danseur au Conservatoire de Valence (Espagne) où il étudie pendant six années le flamenco et la danse classique espagnole.
@@ -17,9 +21,3 @@ Dès 2005, il est invité à danser en Allemagne et entame alors, comme danseur,
 Désireux de poursuivre son travail de transmission du Baile Flamenco, il collabore, depuis un an, avec l’Association Lib’Arte, pour laquelle il anime régulièrement des stages à Paris et donne des cours réguliers.
 
 En tant que chorégraphe, il vient de créer son premier spectacle El Desvan, en novembre 2010.
-
-
-
-À Sanxay :
-- Chorégraphie, dans [Carmen en 2011](/portfolio/2011_carmen/)
-

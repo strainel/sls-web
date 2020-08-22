@@ -1,11 +1,15 @@
 ---
 title: "Svetlana Lifar"
-type: artistes
+type: artists
 date: 2018-07-12T16:59:54+06:00
 image: images/artists/svetlana_lifar.png
-category: ["mezzo-soprano","la flute enchantée"]
+role: Mezzo-soprano
 liveLink: 
 submitDate: 
+show:
+  - role: 3ème Dame
+    title: La flûte enchantée en 2017
+    url : /portfolio/2017_flute/
 ---
 
 La mezzo-soprano française, d'origine russe, Svetlana Lifar étudie la musique au Conservatoire de Moscou puis en Bulgarie et en France au Conservatoire National de Paris. Elle est lauréate de nombreux concours et intègre en 1997 le CNIPAL de Marseille.
@@ -21,7 +25,3 @@ En 2012, elle participe à une création mondiale de l’ouvrage de Philippe Fé
 L’année 2013 a été marquée par sa reprise du rôle de Suzuki dans Madame Butterfly à l’Opéra de Nice, dans la mis en scène de Daniel Benoin, et aussi par le rôle de Martha dans Iolanta à Metz et Nancy.
 
 Parmi ses dernières prestations, on peut citer Butterfly à Antibes et la prise de rôle de Sméton dans *Anna Bolena* à Toulon.
-
-
-À Sanxay :
-- 3ème Dame, dans [La flûte enchantée en 2017](/portfolio/2017_flute/)

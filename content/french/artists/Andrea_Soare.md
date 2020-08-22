@@ -1,11 +1,18 @@
 ---
 title: "Andrea Soare"
-type: artistes
+type: artists
 date: 2018-07-12T16:59:54+06:00
 image: images/artists/andrea_soare.png
-category: ["soprano","le baerbier de séville","la flûte enchantée"]
+role: Soprano
 liveLink: 
 submitDate: 
+show:
+  - role: Berta
+    title: Le Barbier de Séville en 2022
+    url : /portfolio/2022_barbier/
+  - role: 1ère Dame
+    title: La flûte enchantée en 2017
+    url : /portfolio/2017_flute/
 ---
 
 La soprano franco-roumaine Andreea Soare est diplômée en musicologie à l’Université de Strasbourg. Elle se perfectionne en chant au Conservatoire national supérieur de musique de Paris. Elle a participé aux master classes dirigées par Marc Minkowski, Jean-Philippe Lafont, Leontina Vaduva, June Anderson, Ann Murray, Natalie Dessay, Eva Podles, Maryse Castets, Jeff Cohen etc…
@@ -20,14 +27,5 @@ Elle obtient les Prix Lyriques du Cercle Carpeaux et de l’AROP en 2013. L’Op
 
 En 2015, elle participe à un concert à la Cité de la musique à Paris sous la direction de Francois-Xavier Roth, elle est Iphigénie (*Iphigénie en Tauride*), Fiordiligi (*Così fan tutte*) au Garsington Opera en Angleterre.
 
-Dernièrement, elle a été Fiordiligi (*Così fan tutte*) a l’Opéra National de Bucarest, la Comtesse Ceprano (*Rigoletto*) et la Gran Sacerdotessa (*Aïda*) à l’Opéra National de Paris, Donna Elvira (*Don Giovanni*) et la Comtesse (*Les Noces de Figaro*) à l’Opéra de Cologne.
-
-Parmi ses projets, elle débutera le rôle de Pamina dans Die Zauberflote à l'Opéra de Toulon, la première Nymphe (*Russalka*) à l’Opéra National de Paris. Elle donnera deux récitals au Carnegie Hall à New York et au Centre Kennedy à Washington DC.
-
-
-
-À Sanxay :
-- Berta, dans [Le Barbier de Séville en 2010](/portfolio/2020_barbier/)
-- 1ère Dame, dans [La flûte enchantée en 2017](/portfolio/2017_flute/)
-
+Elle a également été Fiordiligi (*Così fan tutte*) a l’Opéra National de Bucarest, la Comtesse Ceprano (*Rigoletto*) et la Gran Sacerdotessa (*Aïda*) à l’Opéra National de Paris, Donna Elvira (*Don Giovanni*) et la Comtesse (*Les Noces de Figaro*) à l’Opéra de Cologne. Elle a débuté enfin le rôle de Pamina dans *Die Zauberflote* à l'Opéra de Toulon, la première Nymphe (*Russalka*) à l’Opéra National de Paris. Elle a donnée deux récitals au Carnegie Hall à New York et au Centre Kennedy à Washington DC.
 

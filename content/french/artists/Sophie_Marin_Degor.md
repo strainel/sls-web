@@ -1,11 +1,15 @@
 ---
 title: "Sophie Marin-Degor"
-type: artistes
+type: artists
 date: 2018-07-12T16:59:54+06:00
 image: images/artists/sophie_marin_degor.png
-category: ["soprano","aida"]
+role: Soprano
 liveLink: 
 submitDate: 
+show:
+  - role: La Grande Prêtresse
+    title: Aïda en 2019
+    url : /portfolio/2019_aida/
 ---
 
 Issue de la Maîtrise de Radio-France où elle fut élève et soliste puis formée par Nicole Fallien dès l’âge de 18 ans, Sophie Marin-Degor se consacre à la musique, à l’art dramatique à l’Ecole Charles Dullin, à la danse et aux claquettes américaines avec Victor Cuno.
@@ -29,8 +33,3 @@ Passionnée également par la transmission, elle enseigne le chant au CNSMD de L
 Elle vient de faire une mise en scène remarquée de La Veuve joyeuse de Franz Lehar au théâtre de la passerelle à Nouaillé-Maupertuis, qu'elle a aussi chorégraphiée.
 
 Parmi ses projets, citons le rôle de Jenny dans *La Dame blanche* de Boieldieu à l'Opéra-Comique.
-
-
-
-À Sanxay :
-- La Grande Prêtresse, dans [Aïda en 2019](/portfolio/2019_aida/)
