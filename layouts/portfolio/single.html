@@ -46,6 +46,9 @@
                     {{ with .Params.created }}
                     <h6>{{ . }}</h6>
                     {{ end }}
+                    {{ with .Params.wikiLink }}
+                    <h6>Wikipédia : <a href="{{ . | absURL }}">{{ . | absURL }}</a></h6>
+                    {{ end }}
                 </div>
             </div>
         </div>
