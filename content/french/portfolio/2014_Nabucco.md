@@ -3,9 +3,9 @@ title: "2014 : Nabucco"
 type: portfolio
 date: 2014-07-12T16:59:54+06:00
 caption: Giuseppe Verdi
-image: images/portfolio/2014_nabucco_01.jpeg
+image: images/portfolio/2014_nabucco/2014_nabucco_02.jpg
 category: ["opera","verdi"]
-liveLink:
+wikiLink: https://fr.wikipedia.org/wiki/Nabucco
 submitDate: 9, 11 et 13 août 2015 à 21h30
 source: Livret de Temistocle Solera d’après le drame Nabuchodonosor d’Auguste Anicet-Bourgeois
 created: Création le 9 mars 1842 à la Scala de Milan
@@ -18,6 +18,13 @@ Nabucco, roi de Babylone, a triomphé des Hébreux. Zaccaria, leur grand prêtre
 Grâce à son "tube", le fameux "Va pensiero", chœur des Hébreux réduits en esclavage, Nabucco est devenu un titre d’opéra parmi les plus populaires et les plus joués au monde. Mais Nabucco ne se réduit pas à ce chœur, c’est aussi une œuvre fondatrice du style de Verdi – une œuvre qui est apparue de surcroit aux Italiens comme une image symbolique de leur condition de peuple occupé par les Autrichiens. L’ardente humanité qui s’exhale de sa musique ne saura laisser aucun cœur indifférent...
 
 {{< youtube id="silnYyqmEHA" >}}
+
+&nbsp;
+
+{{< figure src="/images/portfolio/2014_nabucco/2014_nabucco_08.jpg" width="100%" >}}
+{{< figure src="/images/portfolio/2014_nabucco/2014_nabucco_13.jpg" width="100%" >}}
+{{< figure src="/images/portfolio/2014_nabucco/2014_nabucco_15.jpg" width="100%" >}}
+{{< figure src="/images/portfolio/2014_nabucco/2014_nabucco_24.jpg" width="100%" >}}
 
 
 ### Equipe artistique
