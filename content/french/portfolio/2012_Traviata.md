@@ -3,7 +3,7 @@ title: "2012 : La Traviata"
 type: portfolio
 date: 2012-08-01T16:59:54+06:00
 caption: Giuseppe Verdi
-image: 
+image: images/portfolio/2012_traviata/2012_traviata_01.jpg
 category: ["opera","verdi"]
 liveLink: 
 submitDate: 9, 11, 14 et 16 oût 2012 à 21h30
