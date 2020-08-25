@@ -3,9 +3,9 @@ title: "2011 : Carmen"
 type: portfolio
 date: 2011-08-01T16:59:54+06:00
 caption: Georges Bizet
-image: images/portfolio/2011_carmen_01.png
+image: images/portfolio/2011_carmen/2011_carmen_01.jpg
 category: ["opera","bizet"]
-liveLink: 
+wikiLink: https://fr.wikipedia.org/wiki/Carmen_(opéra)
 submitDate: 8, 10, 12 et 14 août 2011 à 21h30
 source: Livret d'Henri Meilhac et Ludovic Halévy d'après la nouvelle de Prosper Mérimée
 created: Création le 3 mars 1875 à l'Opéra Comique de Paris
@@ -18,6 +18,11 @@ Le brigadier Don José est frappé au cœur par la bohémienne Carmen. Pour lui 
 Carmen n’est pas seulement un alignement d’airs tous plus connus les uns que les autres ( air du toréador, air de la fleur, Habanera, Séguedille...). C’est aussi  le chef d’œuvre de son auteur qui y a mis toute sa science des coloris et de la mélodie, son sens dramatique aigu. A sa création, cet opéra au sujet étonnament  moderne pour l’époque et au final sanglant choqua énormément la critique, avant de devenir, quelques années seulement après sa création, l’un des ouvrages les plus programmés sur les scènes lyriques internationales. Il demeure encore aujourd’hui l’opéra le plus joué au monde...
 
 {{< youtube id="fgrWxmuavNo" >}}
+
+&nbsp;
+
+{{< figure src="/images/portfolio/2011_carmen/2011_carmen_04.jpg" width="100%" >}}
+{{< figure src="/images/portfolio/2011_carmen/2011_carmen_07.jpg" width="100%" >}}
 
 ### Equipe artistique
 

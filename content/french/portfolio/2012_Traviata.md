@@ -25,6 +25,13 @@ Alfredo, fou de jalousie, humilie publiquement Violetta avant de la quitter pour
 
 {{< youtube id="mv1XRnW2vrY" >}}
 
+&nbsp;
+
+{{< figure src="/images/portfolio/2012_traviata/2012_traviata_04.jpg" width="100%" >}}
+{{< figure src="/images/portfolio/2012_traviata/2012_traviata_07.jpg" width="100%" >}}
+{{< figure src="/images/portfolio/2012_traviata/2012_traviata_13.jpg" width="100%" >}}
+{{< figure src="/images/portfolio/2012_traviata/2012_traviata_14.jpg" width="100%" >}}
+
 ### Equipe artistique
 
 
