@@ -54,7 +54,7 @@ description = "Nous vous donnons rendez-vous en août 2021 avec Carmen de Bizet.
 # button
 btn     = true
 btnText = "En savoir plus"
-btnURL  = "#"
+btnURL  = "/portfolio/2021_carmen/"
 
 # flip text
 [[params.banner.flipText]]
@@ -82,7 +82,7 @@ btnURL  = "/contact"
 # Portfolio Section On Homepage
 [params.portfolio]
 enable  = true
-title   = "Les productions précédentes"
+title   = "Les productions de 2000 à aujourd'hui"
 subtitle= "Les soirées lyriques sont nées en 2000. De nombreuses oeuvres ont résonné dans le théatre gallo-romain de Sanxay. Replongez dans le passé..."
 
 # social icon

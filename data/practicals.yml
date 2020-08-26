@@ -1,7 +1,7 @@
 enable  : true
 title: Venir à Sanxay
 transportation    : Les moyens de transport
-transportationSubtitle : Plusieurs solutions pour venir jusque Sanxay
+transportationSubtitle : Plusieurs solutions pour venir jusqu'à Sanxay
 transportationList:
   - name : En voiture
     content : par autoroute A10 - sortie XX 
