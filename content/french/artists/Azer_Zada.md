@@ -2,11 +2,14 @@
 title: "Azer Zada"
 type: artists
 date: 2018-07-12T16:59:54+06:00
-image: images/artists/azer_zada.png
+image: images/artists/azer_zada.jpg
 role: Ténor
 liveLink: 
 submitDate: 
 show:
+  - role: Don José
+    title: Carmen en 2021
+    url : /portfolio/2021_carmen/
   - role: Mario Cavaradossi
     title: Tosca en 2018
     url : /portfolio/2018_tosca/

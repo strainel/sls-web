@@ -7,6 +7,9 @@ role: Ténor
 liveLink: 
 submitDate: 
 show:
+  - role: Le Remendado
+    title: Carmen en 2021
+    url : /portfolio/2021_carmen/
   - role: Spoletta
     title: Tosca en 2018
     url : /portfolio/2018_tosca/

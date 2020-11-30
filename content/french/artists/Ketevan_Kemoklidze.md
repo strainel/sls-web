@@ -7,6 +7,9 @@ role: Mezzo-soprano
 liveLink: 
 submitDate: 
 show:
+  - role: Carmen
+    title: Carmen en 2021
+    url : /portfolio/2021_carmen/
   - role: Maddalena
     title: Rigoletto en 2016
     url : /portfolio/2016_rigoletto/

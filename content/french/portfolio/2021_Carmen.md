@@ -1,7 +1,7 @@
 ---
 title: "2021 : Carmen"
 type: portfolio
-date: 2020-08-01T16:59:54+06:00
+date: 2020-11-01T16:59:54+06:00
 caption: Georges Bizet
 image: images/portfolio/2021_carmen/2021_carmen_01.jpg
 category: ["opera","bizet"]
@@ -11,38 +11,32 @@ source: Livret d'Henri Meilhac et Ludovic Halévy d'après la nouvelle de Prospe
 created: Création le 3 mars 1875 à l'Opéra Comique de Paris
 ---
 
-### Le chef d'œuvre de l'opéra français !
+### La passion andalouse de Bizet
 
-(à mettre à jour)
-
-Le brigadier Don José est frappé au cœur par la bohémienne Carmen. Pour lui épargner la prison, il se laisse dégrader. Et pour la suivre, il oublie sa fiancée Micaëla, déserte et s’adonne à la contrebande. Mais Carmen est « un oiseau rebelle qui n’a jamais connu de loi » : lassée de la jalousie de José, elle s’éprend alors du célèbre toréador Escamillo. Pendant une corrida de Séville (dont Escamillo est la vedette), Don José supplie Carmen de revenir avec lui. Elle refuse. Don José la tue...
-
-Carmen n’est pas seulement un alignement d’airs tous plus connus les uns que les autres ( air du toréador, air de la fleur, Habanera, Séguedille...). C’est aussi  le chef d’œuvre de son auteur qui y a mis toute sa science des coloris et de la mélodie, son sens dramatique aigu. A sa création, cet opéra au sujet étonnament  moderne pour l’époque et au final sanglant choqua énormément la critique, avant de devenir, quelques années seulement après sa création, l’un des ouvrages les plus programmés sur les scènes lyriques internationales. Il demeure encore aujourd’hui l’opéra le plus joué au monde...
-
+À Séville, vers 1820, Carmen, la bohémienne cigarière, séduit Don José, le jeune brigadier. Elle n’aspire qu’à la liberté et à l’indépendance. Lui, fiancé, se plonge à corps perdu dans cette passion. Pour elle, il va délaisser sa promise, Micaëla, déserter et rejoindre la contrebande. Mais Carmen, « oiseau rebelle qui n’a jamais connu de loi », se lasse... et se laisse séduire par Escamillo, célèbre toréador. Fou de désespoir et de jalousie, Don José, pour récupérer son amour, va commettre l’irréparrable...
 
 
 ### Equipe artistique
 
-
-- Direction musicale : [XX](/artists/didier_lucchesi/)
-- Mise en scène/Scénographie/Eclairages : [XX](/artists/jack_gervais/)
-- Chorégraphie : [XX](/artists/carlos_ruiz/)
-- Costumes : Maison Grout
+- Direction musicale : [Roberto Rizzi-Brignoli](/artists/roberto_rizzi/)
+- Mise en scène : [Jean-Christophe Mast](/artists/jean-christophe_mast/)
+- Chorégraphie : [Carlos Ruiz](/artists/carlos_ruiz/)
+- Scénographie / Costumes : Jérôme Bourdin
 - Chef de choeur : [Stefano Visconti](/artists/stefano_visconti/)
-- Chef des choeurs d'enfants : Manuel Coley
+- Chef des choeurs d'enfants : XX
 - Chef de chant : Céline Frétard
 
 ### Distribution
 
-- Carmen : [XX](/artists/geraldine_chauvet/)
-- Micaëla : [XX](/artists/asmik_grigorian/)
-- Frasquita : [XX](/artists/sarah_vaysset/)
-- Mercédès : [XX](/artists/aline_martin/)
-- Don José : [XX](/artists/thiago_arancam/)
-- Escamillo : [XX](/artists/alexander_vinogradov/)
-- Dancaïre : [XX](/artists/philippe_duminy/)
-- Le Remendado : [XX](/artists/paul_rosner/)
-- Morales : [XX](/artists/florian_sempey/)
-- Zuniga : [XX](/artists/jean-marie_delpas/)
+- Carmen : [Ketevan Kemoklidze](/artists/ketevan_kemoklidze/)
+- Micaëla : [Adriana Gonzalez](/artists/adriana_gonzalez/)
+- Frasquita : [Charlotte Bonnet](/artists/charlotte_bonnet/)
+- Mercédès : [Ahlima Mhamdi](/artists/ahlima_mhamdi/)
+- Don José : [Azer Zada](/artists/azer_zada/)
+- Escamillo : [Florian Sempey](/artists/florian_sempey/)
+- Le Dancaïre : [Olivier Grand](/artists/olivier_grand/)
+- Le Remendado : [Alfred Bironien](/artists/alfred_bironien/)
+- Morales : [Yoann Dubruque](/artists/yoann_dubruque/)
+- Zuniga : [Nika Guliashvili](/artists/nika_guliashvili/)
 
 Orchestre et choeur des Soirées Lyriques de Sanxay

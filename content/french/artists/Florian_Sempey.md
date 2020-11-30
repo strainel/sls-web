@@ -2,11 +2,14 @@
 title: "Florian Sempey"
 type: artists
 date: 2018-07-12T16:59:54+06:00
-image: images/artists/florian_sempey.png
+image: images/artists/florian_sempey_by_harcourt.png
 role: Baryton
 liveLink: 
 submitDate: 
 show:
+  - role: Escamillo
+    title: Carmen en 2021
+    url : /portfolio/2021_carmen/
   - role: Le Prince Yamadori
     title: Madame Butterfly en 2013
     url : /portfolio/2013_butterfly/

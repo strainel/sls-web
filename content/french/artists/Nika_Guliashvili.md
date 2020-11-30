@@ -2,7 +2,7 @@
 title: "Nika Guliashvili"
 type: artists
 date: 2018-07-12T16:59:54+06:00
-image: images/artists/nika_guliashvili.png
+image: images/artists/nika_guliashvili_nb.jpg
 role: Basse
 liveLink: 
 submitDate: 
