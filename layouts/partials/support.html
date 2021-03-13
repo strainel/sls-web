@@ -1,0 +1,30 @@
+{{ if .Site.Data.support.enable }}
+{{ "<!-- Client Section Start -->" | safeHTML }}
+{{ with .Site.Data.support }}
+<section class="pricing-table section bg-gray">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        {{ with .title }}<h2 class="subtitle text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay=".3s">{{ . }}</h2>{{ end }}
+        {{ with .subtitle }}<p class="subtitle-des text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay=".5s">{{ . }}</p>{{ end }}
+      </div>
+      <div class="col-lg-12">
+        {{ with .description }}<p class="subtitle-des text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay=".5s">{{ .  | safeHTML }}</p>{{ end }}
+      </div>
+      <!-- single pricing table -->
+      {{ range .aboutSupport }}
+      <div class="col-md-4 col-sm-6 col-xs-12">
+        <div class="pricing-item text-center">
+          <div class="price-title">
+            <h4>{{ .title }}</h4>
+            <p>{{ .content | safeHTML  }}</p>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+      <!-- end single pricing table -->
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
