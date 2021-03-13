@@ -2,73 +2,30 @@ enable  : true
 title   : Le conseil d'administration
 members  :
   - name  : Philippe Bélaval
-    image : images/team/Philippe_Bélaval.jpg
     designation : Président de l'association
     description : Président des soirées lyriques depuis 2018
-    facebook    : https://www.fb.com/themefisher
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
   
   - name  : Mathieu Blugeon
-    image : images/team/Mathieu_Blugeon.jpg
     designation : Président d'honneur
     description : Ancien président des soirées lyriques de 2000 à 2017
-    facebook    : https://www.fb.com/themefisher
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
   
   - name  : René Gibault
-    image : images/team/avatar-h.jpg
     designation : Vice-président
-    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-    facebook    : https://www.fb.com/themefisher
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
 
   - name  : Gilles Grasset  
-    image : images/team/avatar-h.jpg
     designation : Vice-président
-    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-    facebook    : https://www.fb.com/themefisher
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
 
   - name  : Hélène Boyer-Julien
-    image : images/team/avatar-f.jpg
     designation : CEO, Project Manager
-    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-    facebook    : https://www.fb.com/themefisher
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
 
   - name  : Daniel Breton
-    image : images/team/avatar-h.jpg
     designation : Trésorier
-    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-    facebook    : https://www.fb.com/themefisher
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
 
   - name  : Nadège Fallourd
-    image : images/team/avatar-f.jpg
     designation : Trésorier adjointe
-    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-    facebook    : https://www.fb.com/themefisher
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
 
   - name  : Jeanine Bonnet
-    image : images/team/avatar-f.jpg
     designation : Secrétaire générale
-    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-    facebook    : https://www.fb.com/themefisher
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
 
   - name  : Uwe Büren
-    image : images/team/avatar-h.jpg
     designation : Secrétaire adjoint
-    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-    facebook    : https://www.fb.com/themefisher
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
