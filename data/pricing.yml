@@ -6,7 +6,7 @@ pricing_table:
   - name : "Orchestre centrale"
     price: "80 €"
     content : "Idéal pour être proche et face à la scène"
-    link : "#"
+    link : ""
     services :
       - Frais de gestion +3 €
       - Place numérottée  + 14 €
@@ -15,7 +15,7 @@ pricing_table:
   - name : "Orchestre latérale"
     price: "60 €"
     content : "Parfait pour être proche de la scène"
-    link : "#"
+    link : ""
     services:
       - Frais de gestion +3 €
       - Place numérottée  + 14 €
@@ -24,7 +24,7 @@ pricing_table:
   - name : "Gradin"
     price: "62 €"
     content : "Admirable pour voir la scène avec un peu de hauteur"
-    link : "#"
+    link : ""
     services:
       - Frais de gestion +3 €
       - Place numérottée  + 14 €
@@ -33,7 +33,7 @@ pricing_table:
   - name : "Promenoir gazon"
     price: "20 €"
     content : "Unique pour pique-niquer et profiter d'une vue exceptionnelle sur la scène"
-    link : "#"
+    link : ""
     services:
       - Frais de gestion +3 €
       - Place numérottée  + 14 €

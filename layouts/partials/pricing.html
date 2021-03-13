@@ -22,7 +22,7 @@
             <li>{{ . | markdownify }}</li>
             {{ end }}
           </ul>
-          <a class="btn btn-small" href="{{ .link | safeURL }}">{{ i18n "buy_now" }}</a>
+          {{ with .link }}<a class="btn btn-small" href="{{ . | safeURL }}">{{ i18n "buy_now" }}</a>{{ end }}
         </div>
       </div>
       {{ end }}
