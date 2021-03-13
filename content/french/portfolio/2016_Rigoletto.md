@@ -3,7 +3,7 @@ title: "2016 : Rigoletto"
 type: portfolio
 date: 2016-07-12T16:59:54+06:00
 caption: Giuseppe Verdi
-image: images/portfolio/2016_rigoletto_01.jpeg
+image: images/portfolio/2016_rigoletto/2016_rigoletto_01.jpeg
 category: ["opera","mozart"]
 liveLink: 
 submitDate: 8, 10 et 12 août 2016 à 21h30

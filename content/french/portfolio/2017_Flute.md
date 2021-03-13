@@ -3,7 +3,7 @@ title: "2017 : La Flûte enchantée"
 type: portfolio
 date: 2017-07-12T16:59:54+06:00
 caption: Giuseppe Verdi
-image: images/portfolio/2017_flute_01.jpeg
+image: images/portfolio/2017_flute/2017_flute_01.jpeg
 category: ["opera","mozart"]
 liveLink: 
 submitDate: 10, 12 et 14 août 2017 à 21h30
