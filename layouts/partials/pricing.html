@@ -7,10 +7,11 @@
       <div class="col-lg-12">
         {{ with .title }}<h2 class="subtitle text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay=".3s">{{ . }}</h2>{{ end }}
         {{ with .subtitle }}<p class="subtitle-des text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay=".5s">{{ . }}</p>{{ end }}
+        {{ with .image }}<p class="subtitle-des text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay=".5s"><img src="{{ . | relURL }}"></p>{{ end }}
       </div>
       <!-- single pricing table -->
       {{ range .pricing_table }}
-      <div class="col-md-4 col-sm-6 col-xs-12">
+      <div class="col-md-3 col-sm-6 col-xs-12">
         <div class="pricing-item text-center">
           <div class="price-title">
             <h3>{{ .name }}</h3>

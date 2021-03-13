@@ -1,18 +1,18 @@
 enable : true
 title: Les tarifs des places
-subtitle:
+subtitle: à chacun sa place !
+image: images/about/pricing.jpg
 pricing_table:
   # pricing table loop
-  - name : "Orchestre centrale"
+  - name : "Orchestre centrale (1)"
     price: "80 €"
     content : "Idéal pour être proche et face à la scène"
     link : ""
     services :
       - Frais de gestion +3 €
       - Place numérottée  + 14 €
-      
-  # pricing table loop
-  - name : "Orchestre latérale"
+
+  - name : "Orchestre latérale (2)"
     price: "60 €"
     content : "Parfait pour être proche de la scène"
     link : ""
@@ -20,8 +20,7 @@ pricing_table:
       - Frais de gestion +3 €
       - Place numérottée  + 14 €
       
-  # pricing table loop
-  - name : "Gradin"
+  - name : "Gradin (3)"
     price: "62 €"
     content : "Admirable pour voir la scène avec un peu de hauteur"
     link : ""
@@ -29,8 +28,7 @@ pricing_table:
       - Frais de gestion +3 €
       - Place numérottée  + 14 €
       
-  # pricing table loop
-  - name : "Promenoir gazon"
+  - name : "Promenoir gazon (4)"
     price: "20 €"
     content : "Unique pour pique-niquer et profiter d'une vue exceptionnelle sur la scène"
     link : ""
