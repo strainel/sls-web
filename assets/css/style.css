@@ -422,6 +422,30 @@ a:hover {
   max-width: 100%;
 }
 
+
+.support-feature .block {
+  color: #fff;
+  padding: 15px 15px;
+  float: left;
+}
+
+.support-feature .block p {
+  font-weight: 300;
+}
+
+.support-feature .about-feature-1 {
+  background: #02bdd5;
+}
+
+.support-feature .about-feature-2 {
+  background: #00B0C7;
+}
+
+.support-feature .about-feature-3 {
+  background: #00A6BB;
+}
+
+
 .about-feature .block {
   color: #fff;
   padding: 85px 65px;

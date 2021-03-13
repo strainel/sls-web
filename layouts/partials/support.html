@@ -12,10 +12,11 @@
         {{ with .description }}<p class="subtitle-des text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay=".5s">{{ .  | safeHTML }}</p>{{ end }}
       </div>
       <!-- single pricing table -->
-      {{ range .aboutSupport }}
-      <div class="col-md-4 col-sm-6 col-xs-12">
-        <div class="pricing-item text-center">
-          <div class="price-title">
+      {{ range $index, $element := .aboutSupport }}
+      <div class="support-feature col-md-4 col-sm-6 col-xs-12">
+        {{ $class := add $index 1 }}
+        <div class="row">
+          <div class="block about-feature-{{ $class }} wow fadeInDown">
             <h4>{{ .title }}</h4>
             <p>{{ .content | safeHTML  }}</p>
           </div>
@@ -26,5 +27,6 @@
     </div>
   </div>
 </section>
+<br>
 {{ end }}
 {{ end }}
