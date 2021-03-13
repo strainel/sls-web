@@ -1,14 +1,15 @@
 enable  : true
 title: Venir à Sanxay
 transportation    : Les moyens de transport
-transportationSubtitle : Plusieurs solutions pour venir jusqu'à Sanxay
+transportationSubtitle : Plusieurs solutions pour venir à Sanxay
 transportationList:
   - name : En voiture
-    content : par autoroute A10 - sortie XX 
+    content : par autoroute A10 - sortie 30 depuis Paris, sortie 31 depuis Bordeaux 
   - name : Par covoiturage
-    content : blablacar ou carpooling
+    content : Jetez un oeil sur les sites [blablacar](https://blablacar.fr) ou [carpooling](https://www.europe-carpooling.com)
   - name : Par train
-    content : gare de Poitiers (à 30 minutes de Sanxay)
+    content : Plusieurs gares, dont celle de **Poitiers** (à 30 minutes de Sanxay), de **Saint-Maixent-l'école** (à 25 minutes)
+     ou encore celle de **Lusignan** (15 minutes)
 mapTitle    : La carte
 mapSubtitle : >
   Si vous êtes de passage dans la Vienne, vous pouvez venir nous rencontrer dans le local de l'association à SANXAY
