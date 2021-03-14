@@ -1,7 +1,7 @@
 ---
 title: "2021 : Carmen"
 type: portfolio
-date: 2020-11-01T16:59:54+06:00
+date: 2021-03-14T11:59:54+01:00
 caption: Georges Bizet
 image: images/portfolio/2021_carmen/2021_carmen_01.jpg
 category: ["opera","bizet"]
