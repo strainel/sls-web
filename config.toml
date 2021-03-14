@@ -35,7 +35,7 @@ weight  = 4
 # Site Params
 [params]
 home = "Accueil"
-logo = "images/logo-sanxay.png"
+logo = "images/logo-sls-rouge.jpg"
 dateFormat = "6 January 2006"
 # Meta data
 description = "Soirées lyriques de Sanxay"
