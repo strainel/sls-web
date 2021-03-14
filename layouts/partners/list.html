@@ -2,20 +2,33 @@
 
 {{ partial "page-title.html" . }}
 
+{{ with .Site.Data.partners }}
 <section id="clients">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                {{ with .Site.Data.partners.subtitle }}<p class="subtitle-des text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay=".5s">{{ . }}</p>{{ end }}
-                <div id="media">
-                    {{ range $index, $element:= .Site.Data.partners.members }}
-                    <a href="{{ .url | absURL }}"><img class="img-fluid mx-2" src="{{ .image | absURL }}" alt="client-logo"></a>
-                    {{ end }}
-                </div>
-            </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        {{ with .subtitle }}
+            <p class="subtitle-des text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay=".5s">{{ . }}</p>
+        {{ end }}
+        {{ with .image }}
+            <p class="text-center wow" data-wow-duration="500ms" data-wow-delay=".5s"><img src="{{ . | relURL }}"></p>
+        {{ end }}
+      </div>
+      <!-- single pricing table -->
+      {{ range .members }}
+      <div class="col-md-2 col-sm-6 col-xs-12">
+        <div class="pricing-item text-center">
+          <div class="price-title">
+            <a href="{{ .url | absURL }}"><img class="img-fluid mx-2" src="{{ .image | absURL }}" alt="client-logo"></a>
+          </div>
         </div>
+      </div>
+      {{ end }}
+      <!-- end single pricing table -->
     </div>
+  </div>
 </section>
+{{ end }}
 
 {{ partial "cta.html" . }}
 
