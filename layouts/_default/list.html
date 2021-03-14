@@ -19,7 +19,7 @@
                             <a href="{{ .Permalink }}">{{ .Title }}</a>
                         </h2>
                         <div class="blog-meta">
-                            <span>{{ dateFormat "Monday, Jan 2, 2006" .Date }}</span>
+                            <span>publié le {{ dateFormat "02/01/2006" .Date }}</span>
                             {{ with .Params.author }}<span>by
                                 {{ . }}
                             </span>
@@ -30,9 +30,7 @@
                             </span>
                             {{ end }}
                         </div>
-                        <p>
-                            {{ .Summary }}
-                        </p>
+                        {{ with .Summary }}<p>{{ . }}</p>{{ end }}
                         {{ with .Permalink }}<a href="{{ . }}" class="btn btn-dafault btn-details hvr-bounce-to-right">{{ i18n "read_more" }}</a>{{ end }}
                     </div>
                 </article>
