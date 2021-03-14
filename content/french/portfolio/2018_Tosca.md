@@ -4,11 +4,13 @@ type: portfolio
 date: 2018-07-12T16:59:54+06:00
 description : "This is meta description"
 caption: Giacomo Puccini
-image: images/portfolio/2018_tosca/2018_tosca_01.jpeg
+image: images/portfolio/2018_tosca/2018_tosca_01.jpg
+wikiLink: https://fr.wikipedia.org/wiki/Tosca
 category: ["opera","verdi"]
 liveLink: 
 submitDate: 9, 11 et 13 août 2018 à 21h30
-source: Opéra en trois actes de Giacomo Puccini
+source: Livret de Luigi Illica et Giuseppe Giacosa, d'après la pièce de Victorien Sardou, opéra en trois actes de Giacomo Puccini
+created: Créé le 14 janvier 1900 au Teatro Costanzi de Rome
 ---
 ### Un opéra spectaculaire
 
